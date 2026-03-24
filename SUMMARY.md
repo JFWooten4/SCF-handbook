@@ -31,6 +31,7 @@
   * [FAQ](supporting-programs/audit-bank/faq.md)
 * [Public Goods Award](supporting-programs/public-goods-award/README.md)
   * [Official Rules](supporting-programs/public-goods-award/official-rules.md)
+  * [Legal Acknowledgements](supporting-programs/public-goods-award/legal-acknowledgements.md)
 * [Stellar Liquidity Award](supporting-programs/stellar-liquidity-award/README.md)
   * [Official Rules](supporting-programs/stellar-liquidity-award/official-rules.md)
 * [Growth Hack](supporting-programs/growth-hack/README.md)

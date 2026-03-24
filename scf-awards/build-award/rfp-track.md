@@ -37,7 +37,7 @@ RFPs are sourced from ideas submitted by the Stellar ecosystem, selected by Dele
 
 <details>
 
-<summary><strong>Prices API</strong></summary>
+<summary><strong>Prices API :</strong> No longer accepting submissions</summary>
 
 ### Prices API
 
@@ -109,7 +109,7 @@ The Stellar ecosystem lacks a single, reliable, and standardized API to source a
 
 <details>
 
-<summary><strong>DeFi Positions API</strong></summary>
+<summary><strong>DeFi Positions API :</strong> No longer accepting submissions</summary>
 
 ### DeFi Positions API
 
@@ -161,7 +161,7 @@ As the DeFi sector of Stellar matures with protocols like Blend, Aquarius, and o
 
 <details>
 
-<summary><strong>C-Address Tooling &#x26; Onboarding</strong></summary>
+<summary><strong>C-Address Tooling &#x26; Onboarding :</strong> </summary>
 
 ### C-Address Tooling & Onboarding
 
@@ -208,7 +208,7 @@ The shift to C-addresses (Soroban smart accounts) is critical for next-generatio
 
 <details>
 
-<summary><strong>Soroban-first Block Explorer</strong></summary>
+<summary><strong>Soroban-first Block Explorer :</strong> No longer accepting submissions</summary>
 
 ### Soroban-first Block Explorer
 
@@ -253,7 +253,7 @@ While all Stellar block explorers have good support for classic assets, Stellar 
 
 <details>
 
-<summary><strong>Soroban Specialized Reverse Engineering Tool</strong></summary>
+<summary><strong>Soroban Specialized Reverse Engineering Tool :</strong> No longer accepting submissions</summary>
 
 ### Soroban Specialized Reverse Engineering Tool
 
