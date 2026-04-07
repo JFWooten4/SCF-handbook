@@ -31,7 +31,9 @@ description: >-
   * Clear, testable milestones&#x20;
   * How your tool will be maintained post-launch
 
-#### Current Open RFPs
+#### Current Open RFPs&#x20;
+
+_**April 4, 2025: All Q1 RFPs are closed. Keep an eye out for Q2 RFPs coming soon.**_&#x20;
 
 RFPs are sourced from ideas submitted by the Stellar ecosystem, selected by Delegates through the [SCF Quarterly Process](quarterly-governance-process.md), and published here at the start of each quarter:
 
@@ -161,7 +163,7 @@ As the DeFi sector of Stellar matures with protocols like Blend, Aquarius, and o
 
 <details>
 
-<summary><strong>C-Address Tooling &#x26; Onboarding :</strong> </summary>
+<summary><strong>C-Address Tooling &#x26; Onboarding :</strong> No longer accepting submissions</summary>
 
 ### C-Address Tooling & Onboarding
 
@@ -294,7 +296,7 @@ Soroban Smart Contracts are essentially WASM files that include proprietary Soro
 
 <details>
 
-<summary><strong>Hummingbot integration (open source trading engine)</strong></summary>
+<summary><strong>Hummingbot integration (open source trading engine):</strong> no longer accepting submissions</summary>
 
 ### Hummingbot integration (open source trading engine)
 
