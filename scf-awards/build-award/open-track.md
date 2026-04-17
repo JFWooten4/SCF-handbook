@@ -16,7 +16,7 @@ The Open Track is for experienced builders exploring novel use cases on Stellar 
 * Applications with traction primarily focused on integrating existing tools like wallets, anchors, or passkeys\
   → Better fit for the [Integration Track](integration-track/)
 * Teams replicating existing ecosystem solutions\
-  → Explore the [Integration Track](integration-track/)&#x20;
+  → Explore the [Integration Track](integration-track/). If you choose to move forward in the Open Track, your submission must clearly explain how your solution meaningfully improves upon existing solutions.
 * Developers responding to a specific ecosystem need for dev tools\
   → Check the [RFP Track](rfp-track.md)
 
@@ -27,7 +27,12 @@ The Open Track is for experienced builders exploring novel use cases on Stellar 
 * Milestones and deliverables mapped to mainnet deployment
 * Thoughtful budget that reflects team size, timeline, and effort
 * Clear articulation of of how your proposed solution will drive onchain growth, and how that growth will be measured
+* Full-disclosure on the use of AI-generated and AI-assisted artifacts (docs, code, etc.)
 * A market analysis with a focus on the business side and the technical aspects. How is the project different from other, similar solutions, and what value does it provide?&#x20;
+* A unified source (like Gitbook) containing all project development documentation, including but not limited to planning, overall roadmap, diagrams, dev artifacts, test plan, and any UI/UX prototypes
+* Evidence that your team has previously built and scaled similar products, and that you have the business expertise and commitment to do so again
+* Shows a plan to utilize the network's latest strengths to ensure long-term scalability and leverage
+* A well-put together video presentation showcasing the team.
 
 #### 📅 Process & Timeline
 

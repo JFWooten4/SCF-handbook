@@ -16,7 +16,7 @@ Rather than reinventing the wheel, this track focuses on composability — integ
 
 #### 🚫 Who This Track Is Not For
 
-*   Teams building net-new applications or wallets without existing traction
+*   Teams building net-new applications (including wallets) without existing traction
 
     → Better fit for [Instawards](../../instawards/)
 * Teams building net new protocols not focused on integrations\
@@ -39,6 +39,8 @@ Rather than reinventing the wheel, this track focuses on composability — integ
 
 #### Budget Recommendations
 
+Ensure you’re not overscoping your budget. Most integration partners on the list take less than a week (40 hours) of development time to integrate. Find more information about your chosen integration partner [here](https://airtable.com/appymB1sbp5uidiGe/shrQFLSRUqxI7tBdT).&#x20;
+
 <table><thead><tr><th width="122.6484375">Scope</th><th width="375.43359375">Example</th><th>Suggested Budget</th></tr></thead><tbody><tr><td>Small</td><td>one simple integration (wallet, SDP,, MGI)</td><td>$25K–$50K</td></tr><tr><td>Medium</td><td>moderate scope: one larger integration (DeFi protocol) or two small ones</td><td>$50K–$100K</td></tr><tr><td>Large</td><td>complex integrations: Wallet + DeFi protocol + on-ramp, anchor + DEX, or cross-chain bridge deployment.</td><td>$100K–$150K</td></tr></tbody></table>
 
 Feel free to use the above table as a guide for creating your budget. Your budget items should mainly be related to your integration costs, but some costs for “connective tissue” are permitted.&#x20;
@@ -58,7 +60,7 @@ Feel free to use the above table as a guide for creating your budget. Your budge
 
 2. Eligible teams will be invited to submit to an upcoming Build round. Submit your Build form before the deadline and choose the Integration Track.<br>
 3. Submissions are reviewed by 2 reviewers from that quarter’s Category Delegate Panel.<br>
-4. If reviewers agree Yes or No, the project moves forward. If reviewers disagree, a third reviewer is added to break the tie. <br>
+4. If reviewers agree Yes or No, the project moves forward. If reviewers disagree, a third reviewer is added to break the tie. At this stage, teams may be asked to meet with reviewers to go over their submission in more depth.<br>
 5. Some teams may receive requested minor changes to their submission before funding.<br>
 6. After making any requested changes, awarded submissions receive their first tranche of funding.
 

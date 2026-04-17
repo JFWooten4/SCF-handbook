@@ -68,7 +68,17 @@ Check out our [FAQ section](additional-support/faq.md)! Have questions not addre
 
 ***
 
-### What’s New in SCF 7.0
+### What’s New in the SCF Handbook:
+
+_April 2026_
+
+* Estimated development time for each partner added to [integration track list,](scf-awards/build-award/integration-track/integration-list.md) with more info [here.](https://airtable.com/appymB1sbp5uidiGe/shrQFLSRUqxI7tBdT) Teams should use these to scope their budgets appropriately, and delegates will cross-reference them when reviewing&#x20;
+* Additional guidelines added around "what makes a strong Open Track submission" section.  &#x20;
+* Additional guidelines and requirements added for [RFP submissions](scf-awards/build-award/rfp-track.md).&#x20;
+* RFP track delegates agreed to push Q2 RFPs to SCF #44. There will be no open RFPs for the SCF #43 submission window.&#x20;
+* Some teams (particularly in the Integration and RFP tracks) may be asked to meet with reviewers/the SCF team as part of the submission and review process.&#x20;
+
+_January 2026_
 
 SCF 7.0 is the Stellar Development Foundation’s redesigned awards program for teams building real on-chain impact with Stellar. SCF 7.0 officially launched in January 2026. These are the biggest updates to the program. You can find more information about all of these in the rest of the handbook, as well as check out some of the smaller programmatic changes meant to streamline the funding experience.&#x20;
 

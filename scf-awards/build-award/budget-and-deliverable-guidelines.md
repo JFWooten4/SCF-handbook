@@ -79,6 +79,11 @@ Your budget should reflect the actual hours of engineering and product work requ
 
 Higher-impact projects can justify larger budgets — but only if the work involved matches.
 
+**Integration Partner Guidelines**
+
+* If you're integrating with one or more of our [Integration Partners](integration-track/full-integration-list.md), make sure to check your proposed timeline and budget against their guidelines.&#x20;
+  * Projects with bloated/overscoped budgets may be asked to decrease budgets or resubmit.&#x20;
+
 ### &#x20;⚠️ Important Note on Award Size
 
 SCF reviewers and voters look for clear justification between:

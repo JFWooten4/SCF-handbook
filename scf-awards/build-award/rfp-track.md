@@ -24,12 +24,21 @@ description: >-
 
 #### 📋 Requirements
 
-* Your submission must address an [open RFP](rfp-track.md#current-open-rfps) from the current quarter—read the RFP carefully and respond directly to its needs.
+* The submission must address an [open RFP](rfp-track.md#current-open-rfps) from the current quarter—read the RFP carefully and respond directly to its needs.&#x20;
+  * Your proposal does not need to address all points of the RFP, but you should articulate reasoning for a limited scope.&#x20;
 * You must clearly show:
-  * Why you’re a good fit to solve this (provide examples of past dev-focused work if possible)
+  * Why you’re a good fit to solve this (provide examples of past dev-focused work, and share open-sourced repos if possible)
   * What makes your solution technically strong
   * Clear, testable milestones&#x20;
   * How your tool will be maintained post-launch
+  * A high-level visual diagram (Mermaid or similar) and a plain-English explanation of the technical stack.
+* Provide a clear explanation on how your project will be decentralized—if not, why?&#x20;
+* Explain what infrastructure the project runs on.&#x20;
+* Provide an explanation of plans for user tracking and efforts to limit and protect users
+* Commitment to regularly updating the community on project status
+* Your project should use the most recent stable release of the Stellar tech stack&#x20;
+* Include licensing scheme and commitment to building in the open
+  * Consider using Open Source Software like Matrix and decentralized networks (Mastodon / BlueSky) to communicate with your audience
 
 #### Current Open RFPs&#x20;
 
@@ -364,7 +373,7 @@ Important: If you were referred by a member of the SCF community, make sure to i
 
 2. Eligible teams will be invited to submit to an upcoming Build round. Submit your Build form before the deadline and choose the RFP Track. In the submission form, clearly identify which open RFP you’re addressing.
 3. Submissions are reviewed by 2 reviewers from that quarter’s Category Delegate Panel.
-4. If reviewers agree Yes or No, the project moves forward. If reviewers disagree, a third reviewer is added to break the tie.&#x20;
+4. If reviewers agree Yes or No, the project moves forward. If reviewers disagree, a third reviewer is added to break the tie. At this stage, teams may be asked to meet with reviewers to go over their submission in more depth.
 5. Some teams may receive requested minor changes to their submission before funding.
 6. After making any requested changes, awarded submissions receive their first tranche of funding.
 
