@@ -42,7 +42,7 @@ description: >-
 
 #### Current Open RFPs&#x20;
 
-_**April 4, 2025: All Q1 RFPs are closed. Keep an eye out for Q2 RFPs coming soon.**_&#x20;
+_**May 11, 2026: New Q2 RFPs are open for submissions for SCF #**_**43!**
 
 RFPs are sourced from ideas submitted by the Stellar ecosystem, selected by Delegates through the [SCF Quarterly Process](quarterly-governance-process.md), and published here at the start of each quarter:
 
