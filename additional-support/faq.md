@@ -36,7 +36,7 @@ SCF supports projects from ideation to launch and growth. SCF supports projects 
 
 <summary>To what extent does Stellar and/or Soroban need to be integrated into my project?</summary>
 
-To be considered for selection, you must showcase that Stellar is or will play a core and valuable role in your project. Don't shoehorn Stellar into your project just to get awards. Reviewers and voters want to see that your team is committed to the Stellar ecosystem, not just shopping around for funding.&#x20;
+To be considered for selection, you must showcase that Stellar is or will play a core and valuable role in your project. Don't shoehorn Stellar into your project just to get awards. Reviewers and voters want to see that your team is committed to the Stellar ecosystem, not just shopping around for funding.
 
 </details>
 
@@ -72,7 +72,7 @@ You can find step-by-step submission instructions for each program here in the h
 
 <summary>Who reviews projects and votes for project allocation? </summary>
 
-* Projects are reviewed by a rotating delegate panel made up of SDF employees and trusted Stellar Community members. Anyone can become an SCF Delegate Panelist by earning the Pilot Role, which represents a significant commitment to the Stellar Ecosystem and to the Stellar Community Fund.&#x20;
+* Projects are reviewed by a rotating delegate panel made up of SDF employees and trusted Stellar Community members. Anyone can become an SCF Delegate Panelist by earning the Pilot Role, which represents a significant commitment to the Stellar Ecosystem and to the Stellar Community Fund.
 * SCF operates using a verified member system where individuals unlock different abilities as they move through the tiers. SCF Pathfinders are eligible to participate in Community Vote by delegating their votes to trusted delegates. SCF Navigators are able to vote directly for projects. SCF Pilots can vote directly for projects, and nominate themselves to be part of the Delegate Panel. Delegates carry the heaviest voting weight, based on delegation and quorum
 
 </details>
@@ -105,7 +105,7 @@ Short answer: yes. Long answer: most projects will begin in one of the three ava
 
 <summary><strong>What are the evaluation criteria for applications?</strong> </summary>
 
-General application criteria can be found [here](../scf-awards/build-award/submission-criteria.md)[.](../scf-awards/official-rules-for-submissions.md)&#x20;
+General application criteria can be found [here](../scf-awards/build-award/submission-criteria.md)[.](../scf-awards/official-rules-for-submissions.md)
 
 </details>
 
@@ -123,10 +123,10 @@ General application criteria can be found [here](../scf-awards/build-award/submi
 
 <summary>How are SCF Awards paid out?</summary>
 
-* While the requested budget amount of each submission is valued in USD, the actual pay-out currency is[ XLM, Stellar's native currency](https://stellar.org/lumens)\*.&#x20;
+* While the requested budget amount of each submission is valued in USD, the actual pay-out currency is[ XLM, Stellar's native currency](https://stellar.org/lumens)\*.
 * SCF Build Awards are split into 4 milestone-based tranches. Subsequent tranches are unlocked when deliverables are verified.
   * Tranche #0: 10% of total awarded budget (at time of award)
-  * Tranche #1: 20% of total awarded budget&#x20;
+  * Tranche #1: 20% of total awarded budget
   * Tranche #2: 30% of total awarded budget
   * Tranche #3: 40% of total awarded budget
 
@@ -174,9 +174,9 @@ The different SCF programs have different requirements for funding, so be sure y
 
 Yes, any previously funded project that have completed all deliverables of a previous Build Award may submit for additional award(s), up to a total maximum of $150,000 in XLM across all awards accumulated over its lifetime.
 
-Projects that have previously already received $150,000 may be eligible for additional awards only on a case-by-case basis, subject to a lifetime accumulated funding cap of $300,000 in XLM. If you fall into this category, reach out to communityfund@stellar.org when you submit for the additional award. &#x20;
+Projects that have previously already received $150,000 may be eligible for additional awards only on a case-by-case basis, subject to a lifetime accumulated funding cap of $300,000 in XLM. If you fall into this category, reach out to communityfund@stellar.org when you submit for the additional award. 
 
-&#x20;Any such follow-on awards may also require additional legal and business due diligence.<br>
+Any such follow-on awards may also require additional legal and business due diligence.<br>
 
 </details>
 
@@ -194,7 +194,7 @@ Join the [Stellar Developers Discord Server](https://discord.gg/stellardev) to c
 
 <summary>How does Discord work?</summary>
 
-Unfamiliar with Discord? No problem, check out this [beginner’s guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord), and learn [how to navigate the SCF Discord](navigating-discord/) [here](navigating-discord/).&#x20;
+Unfamiliar with Discord? No problem, check out this [beginner’s guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord), and learn [how to navigate the SCF Discord](navigating-discord/) [here](navigating-discord/).
 
 </details>
 

@@ -35,22 +35,22 @@ Your budget should focus on the cost of completing specific deliverables. These 
 * Connecting frontend to smart contract functions
 * Capturing end-to-end demos or flows
 
-&#x20;**Testing & Verification**
+**Testing & Verification**
 
 * Unit and integration test coverage
 * QA processes and testnet simulations
 * Monitoring and alerting stack
 
-&#x20;**Deployment & Release**
+**Deployment & Release**
 
 * Mainnet deployment (contract verification, activation)
 * Public SDKs, APIs, and developer docs
 * Setting up infrastructure like NAV APIs or alerting tools
 
-### &#x20;❌ Budget DONT’s: What You Can’t Include
+### ❌ Budget DONT’s: What You Can’t Include
 
 * Audit costs (covered separately by Audit Bank for eligible projects )
-* Marketing and user acquisition costs&#x20;
+* Marketing and user acquisition costs
 * General bounties, token giveaways, or prize pools
 * Legal fees or entity registration costs
 * Reimbursement for past work or unrelated activity<br>
@@ -59,7 +59,7 @@ Your budget should focus on the cost of completing specific deliverables. These 
 📌 Important: Budget items must clearly relate to deliverables and reflect the actual cost of achieving those milestones.
 {% endhint %}
 
-### &#x20;Sizing Your Budget
+### Sizing Your Budget
 
 When planning your budget, focus on what’s necessary to build and ship your project.
 
@@ -81,10 +81,10 @@ Higher-impact projects can justify larger budgets — but only if the work invol
 
 **Integration Partner Guidelines**
 
-* If you're integrating with one or more of our [Integration Partners](integration-track/full-integration-list.md), make sure to check your proposed timeline and budget against their guidelines.&#x20;
-  * Projects with bloated/overscoped budgets may be asked to decrease budgets or resubmit.&#x20;
+* If you're integrating with one or more of our [Integration Partners](integration-track/full-integration-list.md), make sure to check your proposed timeline and budget against their guidelines.
+  * Projects with bloated/overscoped budgets may be asked to decrease budgets or resubmit.
 
-### &#x20;⚠️ Important Note on Award Size
+### ⚠️ Important Note on Award Size
 
 SCF reviewers and voters look for clear justification between:
 
@@ -102,7 +102,7 @@ Start with a realistic estimate that matches your actual build plan.
 
 SCF Build Awards are structured around three tranches, tied to measurable outcomes. Each tranche must be clearly defined in your application and completed before funds are released.
 
-### &#x20;What Is a Tranche?
+### What Is a Tranche?
 
 A tranche is a portion of your award linked to a project milestone.\
 The SCF Build application form includes space for three tranches — your full proposal must fit into that structure.
@@ -127,13 +127,13 @@ Your Your timeline and deliverables can flex,  but the end goal is the same: **a
 
 A great deliverable is:
 
-&#x20;✅ Clear: It’s obvious what’s being built or shipped\
+✅ Clear: It’s obvious what’s being built or shipped\
 \
 ✅ Measurable: There's a concrete metric or success signal\
 \
 ✅ Verifiable: Reviewers can test, view, or validate it\
 \
-✅ Outcome-based: Focuses on the result&#x20;
+✅ Outcome-based: Focuses on the result
 
 Example: Instead of “frontend done,” say: “End-to-end swap flow demo recorded on testnet.”
 
@@ -173,7 +173,7 @@ It’s okay to adjust scope, just communicate early.
 
 * Provide a specific budget breakdown for each deliverable
 * Avoid vague phrases like “testing complete” without criteria
-* Don’t front-load all the hard work into Tranche 1 - this should be an opportunity to ship something fast.&#x20;
+* Don’t front-load all the hard work into Tranche 1 - this should be an opportunity to ship something fast.
 * Make sure each deliverable has a clear definition of success, both for you and for reviewers to verify.
 
 ***

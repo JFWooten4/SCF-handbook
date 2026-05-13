@@ -6,7 +6,7 @@ Common issues across voting mechanisms include inaccurate sentiment of the large
 
 * Distributing voting weight across community members in a fair, transparent, and decentralized way in alignment with the SCF’s objectives;
 * Fostering higher engagement by empowering members to grow their reputation within the community;
-* Providing greater flexibility on voting responsibilities when a voter has limited availability or expertise.&#x20;
+* Providing greater flexibility on voting responsibilities when a voter has limited availability or expertise.
 * Making it more accessible for newcomers to join, which is necessary for the success of Stellar and Soroban.
 
 #### Learn More

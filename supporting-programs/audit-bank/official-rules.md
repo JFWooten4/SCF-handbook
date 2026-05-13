@@ -1,6 +1,6 @@
 # Official Rules
 
-Each participating project (“Project”, “project” or “Participant”) needs to meet the Participant Eligibility Rules, the Application and Evaluation criteria, as well as the General Rules (altogether known as “Official Rules”).&#x20;
+Each participating project (“Project”, “project” or “Participant”) needs to meet the Participant Eligibility Rules, the Application and Evaluation criteria, as well as the General Rules (altogether known as “Official Rules”).
 
 ## Structure
 
@@ -34,7 +34,7 @@ Projects interested in participating must submit an audit request using a provid
 * Development status and GitHub repositories
 * Previous security practices or audits
 
-Use the [Audit Readiness Checklist ](audit-readiness-checklist.md)and make sure your submission meets all the criteria to pass Readiness Review.&#x20;
+Use the [Audit Readiness Checklist ](audit-readiness-checklist.md)and make sure your submission meets all the criteria to pass Readiness Review.
 
 #### **Phase 2: Readiness Review**
 
@@ -77,7 +77,7 @@ The chosen audit firm performs a comprehensive security audit of the project's s
 * Penetration testing and stress testing
 * Identification of critical, high, medium, and low vulnerabilities
 
-While SDF covers most of the audit costs, there are cases in which an upfront co-payment from a project to SDF is required. As an example, for the Initial Audit, a project is required to provide a co-payment of 5% of Initial Audit costs to SDF, payable prior to commencement of the audit. However, if a project successfully addresses all identified critical, high, and medium vulnerabilities within 20 business days (verified by SDF with the Audit Firm), this co-payment of the Initial Audit will be fully refunded. Subsequent audits also require co-payment by the project. [See details here](official-rules.md#audit-co-payment-system).&#x20;
+While SDF covers most of the audit costs, there are cases in which an upfront co-payment from a project to SDF is required. As an example, for the Initial Audit, a project is required to provide a co-payment of 5% of Initial Audit costs to SDF, payable prior to commencement of the audit. However, if a project successfully addresses all identified critical, high, and medium vulnerabilities within 20 business days (verified by SDF with the Audit Firm), this co-payment of the Initial Audit will be fully refunded. Subsequent audits also require co-payment by the project. [See details here](official-rules.md#audit-co-payment-system).
 
 The duration of the audit phase typically ranges between one to six weeks, depending on the complexity of the project.
 
@@ -97,7 +97,7 @@ To ensure accountability and efficient resource allocation, projects may be requ
 
 <table><thead><tr><th>Audit Stage</th><th>Traction Threshold</th><th width="127.91796875">Co-Payment %</th><th width="258.55078125">Description</th></tr></thead><tbody><tr><td>Initial Audit</td><td>None for priority categories</td><td>5% with potential refund*</td><td>Covers initial audit to ensure baseline security for newly developed protocols.</td></tr><tr><td>Growth Audit</td><td>>$10M TVL or equivalent</td><td>0%</td><td>Focused on scaling projects with moderate traction to validate ongoing security. May include more extensive auditing (e.g. formal verification)</td></tr><tr><td>Scale Audit</td><td>>$100M TVL or equivalent</td><td>0%</td><td>Targets high-value projects nearing maturity to ensure robust security measures. May include more extensive auditing (e.g. formal verification)</td></tr><tr><td>Pre-Traction Follow Up Audits<br></td><td>N/A</td><td><p>20% for the pre-traction follow-up audit, 50% for the second pre-traction</p><p>follow-up audit</p></td><td>If additional audits are needed in addition to the Initial Audit and the project hasn’t achieved traction required for Growth and Scale Audit yet, SDF partly covers the first two follow-up audits. </td></tr></tbody></table>
 
-\*If the project is able to successfully address all critical, high, and medium issues identified by the Audit Firm within  20 business days, the 5% co-payment of the Initial Audit will be refunded back to the project.&#x20;
+\*If the project is able to successfully address all critical, high, and medium issues identified by the Audit Firm within  20 business days, the 5% co-payment of the Initial Audit will be refunded back to the project.
 
 ## Participant Eligibility
 
@@ -106,16 +106,16 @@ In order to be eligible for an audit, projects must meet the following criteria:
 * Projects must have been funded by SCF. Companies with other commercial grants from the SDF are not eligible for participation in the audit bank.
 * Projects must pass KYC and sanction checks.
 * Projects must be in an [eligible priority category or meet non-priority traction criteria](official-rules.md#eligible-categories).
-* Projects must have completed the development of the code portions within the audit scope, be nearly mainnet-ready, and require an audit within 4-6 weeks.&#x20;
+* Projects must have completed the development of the code portions within the audit scope, be nearly mainnet-ready, and require an audit within 4-6 weeks.
 * Projects must have conducted extensive tests on their code and deployed it on testnet for validation.
 * As part of their application, projects must submit the results of one of the “self-service tooling” options to include a list of all identified vulnerabilities and a remediation plan for fixing identified critical, high, and medium severity vulnerabilities prior to audit start.
-* Projects must include a STRIDE threat model for the project as part of their application.&#x20;
+* Projects must include a STRIDE threat model for the project as part of their application.
 * Projects must be able to be responsive during the entirety of the audit.
 * Projects must be able to cover co-pay depending on their audit stage.
 
 ### Eligible Categories
 
-Projects must demonstrate increased risk or the potential for a significant impact on the ecosystem.&#x20;
+Projects must demonstrate increased risk or the potential for a significant impact on the ecosystem.
 
 #### **Priority Categories:**
 
@@ -126,7 +126,7 @@ Projects must demonstrate increased risk or the potential for a significant impa
 
 #### **Non-Priority Categories Criteria:**
 
-Projects outside of priority categories must reach a threshold of 10K MAA, $100K in TVL or transaction volume to potentially qualify for an audit post-launch, but must obtain review panel approval first.&#x20;
+Projects outside of priority categories must reach a threshold of 10K MAA, $100K in TVL or transaction volume to potentially qualify for an audit post-launch, but must obtain review panel approval first.
 
 #### **Eligibility Examples**
 

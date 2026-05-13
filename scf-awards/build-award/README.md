@@ -4,18 +4,18 @@ description: Updated 01/9/2026
 
 # Build Award
 
-SCF Build is the core award track for teams building applications and protocols on Stellar. It provides milestone-based funding to help teams bring their projects to mainnet.&#x20;
+SCF Build is the core award track for teams building applications and protocols on Stellar. It provides milestone-based funding to help teams bring their projects to mainnet.
 
 **SCF Build consists of 3 distinct tracks: Open, Integration, and RFP.**
 
-SCF Build Award (or “Build Awards”) is an award of up to $150,000 in XLM\* distributed to eligible teams who are building meaningful products, services, and resources on Stellar (each, a “Project”). SCF Build Awards are intended to cover (up to \~4 months of) development costs until the Project launches on Stellar mainnet, or are otherwise available to their target audience.&#x20;
+SCF Build Award (or “Build Awards”) is an award of up to $150,000 in XLM\* distributed to eligible teams who are building meaningful products, services, and resources on Stellar (each, a “Project”). SCF Build Awards are intended to cover (up to \~4 months of) development costs until the Project launches on Stellar mainnet, or are otherwise available to their target audience.
 
 {% hint style="info" %}
 #### 🧑‍💻 **Who It’s For:**
 
-SCF Build supports strong teams ready to deliver and ship in 3-5 months.&#x20;
+SCF Build supports strong teams ready to deliver and ship in 3-5 months.
 
-The Open Track is for:&#x20;
+The Open Track is for:
 
 * All-star teams with a plan to build something brand-new on Stellar.
 
@@ -24,10 +24,10 @@ The Integration Track is for:
 * Ready-to-build teams who want to incorporate an existing Stellar “building block” into their project.
 * Teams with existing significant traction (either on Stellar, on another chain, or offchain)
 
-The RFP Track is for:&#x20;
+The RFP Track is for:
 
-* Developers building tooling or services that fit in one of the open RFPs&#x20;
-* Teams prepared to build and ship fast.&#x20;
+* Developers building tooling or services that fit in one of the open RFPs
+* Teams prepared to build and ship fast.
 
 If you're looking to fund development and launch of a usable application or protocol, SCF Build is for you.
 {% endhint %}
@@ -58,7 +58,7 @@ If you're looking to fund development and launch of a usable application or prot
    Your application should include:
    1. A detailed technical roadmap and milestone plan
    2. A breakdown of your budget across tranches
-   3. Your current traction (on Stellar, other chains, or offchain)&#x20;
+   3. Your current traction (on Stellar, other chains, or offchain)
    4. Information about your team’s skills and experience
 
 ***
@@ -97,13 +97,13 @@ This includes:
 
 SDF uses this information to fulfill regulatory requirements for distributing XLM awards. The KYC form can be accessed at: [stellar.org/bd-kyc](https://stellar.org/bd-kyc)
 
-&#x20;Any follow-on awards may also require additional legal and business due diligence.
+Any follow-on awards may also require additional legal and business due diligence.
 
-#### Who Needs to Complete KYC?&#x20;
+#### Who Needs to Complete KYC?
 
 * If applying as an individual: you must complete the form
 * If applying as a team: each individual contributor must complete the form
-* If your team has completed KYC in the last 2 years: you may not need to repeat the process.&#x20;
+* If your team has completed KYC in the last 2 years: you may not need to repeat the process.
 
 Please refer to the [SDF Privacy Policy](https://www.stellar.org/privacy-policy) for details on how your data is handled.
 
@@ -117,7 +117,7 @@ You're welcome to revise and resubmit in a future round. Learn more about resubm
 
 ### SCF Build Referral Program
 
-The Stellar Community Fund relies heavily on signals from vetted referral sources for project support. If you’ve been in touch with someone in the Stellar Community, an SDF employee, or a partner, make sure to ask them for their unique referrer code, and include it in your interest form. This helps the SCF team to narrow focus and provide high-touch support to high-quality teams.&#x20;
+The Stellar Community Fund relies heavily on signals from vetted referral sources for project support. If you’ve been in touch with someone in the Stellar Community, an SDF employee, or a partner, make sure to ask them for their unique referrer code, and include it in your interest form. This helps the SCF team to narrow focus and provide high-touch support to high-quality teams.
 
 [SCF Referral Program Terms & Conditions](referral-program.md)<br>
 
