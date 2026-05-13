@@ -12,9 +12,9 @@ Projects funded through the Stellar Community Fund involving financial protocols
 
 <details>
 
-<summary>How much does SDF cover for the Initial Audit?</summary>
+<summary>How much does the SDF cover for the Initial Audit?</summary>
 
-Prior to an eligible project's initial audit, the project must pay 5% of its first audit cost as an upfront co-payment to SDF. Subsequently, SDF will pay the entire first audit cost to the selected audit firm. The project's co-payment amount may be refunded by SDF to the project provided the project remediates all critical, high, and medium vulnerabilities within 20 business days of receiving the audit report. See details [here](official-rules.md#audit-co-payment-system).
+Prior to an eligible project's initial audit, the project must pay 5% of its first audit cost as an upfront co-payment to the SDF. Subsequently, the SDF will pay the entire first audit cost to the selected audit firm. The project's co-payment amount may be refunded by the SDF to the project provided the project remediates all critical, high, and medium vulnerabilities within 20 business days of receiving the audit report. See details [here](official-rules.md#audit-co-payment-system).
 
 </details>
 

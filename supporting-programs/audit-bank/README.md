@@ -1,6 +1,6 @@
 # Audit Bank
 
-To keep the ecosystem secure, SDF covers essential audits for SCF-awarded Projects building Stellar's smart contracts. Learn more about the program [here](official-rules.md).&#x20;
+To keep the ecosystem secure, the SDF covers essential audits for SCF-awarded Projects building Stellar's smart contracts. Learn more about the program [here](official-rules.md).&#x20;
 
 **To get started:**
 

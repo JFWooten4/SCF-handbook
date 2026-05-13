@@ -21,7 +21,7 @@ The SCF Referral Program (“Referral Program”) enables approved individuals o
 
 3.1 Independence of SCF Decisions. Referrals are an important part of the SCF application process and may be considered as part of the evaluation. However, referrals do not guarantee acceptance into SCF, selection, funding, or any other benefit. Funding decisions remain independent and subject to SCF governance, evaluation criteria, and final approvals in accordance with the rules set forth in the SCF Handbook.<br>
 
-3.2 No Undue Influence. Referrers shall not, directly or indirectly, represent, imply or suggest that their referral confers any advantage or rights to any SCF awards,influences SCF decisions, constitutes an endorsement, sponsorship or approval by SDF and/or SCF, or creates any agency relationship between SDF/SCF and Referrers, except to the extent explicitly provided by the referral mechanism as set forth in the Referral Rules herein.
+3.2 No Undue Influence. Referrers shall not, directly or indirectly, represent, imply or suggest that their referral confers any advantage or rights to any SCF awards,influences SCF decisions, constitutes an endorsement, sponsorship or approval by the SDF and/or SCF, or creates any agency relationship between SDF/SCF and Referrers, except to the extent explicitly provided by the referral mechanism as set forth in the Referral Rules herein.
 
 #### 4. Referral Submission & Attribution
 
@@ -38,13 +38,13 @@ The SCF Referral Program (“Referral Program”) enables approved individuals o
 
 At SCF’s sole discretion, a Referrer may be offered the option to receive a Referral Reward through one or more alternative methods, which may include, without limitation: (i) direct disbursement of funds to the Referrer; (ii) disbursement of the Referral Reward to a named project; in each case as approved by SCF.&#x20;
 
-Referrers are not eligible to receive additional Referral Rewards for any subsequent funding of the same project, including any follow-on SCF funding, funding from SDF Matching Fund, or funding from SDF Enterprise Fund. SCF may, in its sole discretion, allow multiple Referrers to share a referral reward, provided that the total combined reward does not exceed the 1% cap. The determination of whether a referral is “successful,” whether a Referral Reward will be offered, and the calculation of any Referral Reward shall be made solely by SCF and shall be final and binding.
+Referrers are not eligible to receive additional Referral Rewards for any subsequent funding of the same project, including any follow-on SCF funding, funding from the SDF Matching Fund, or funding from the SDF Enterprise Fund. SCF may, in its sole discretion, allow multiple Referrers to share a referral reward, provided that the total combined reward does not exceed the 1% cap. The determination of whether a referral is “successful,” whether a Referral Reward will be offered, and the calculation of any Referral Reward shall be made solely by SCF and shall be final and binding.
 
-Current employees of SDF are not eligible to receive any Referral Rewards.
+Current employees of the SDF are not eligible to receive any Referral Rewards.
 
-4.5 Tax, Compliance, and Verification. Referrers are solely responsible for any tax, reporting, or compliance obligations arising from the Referral Rewards. Referrers must complete all applicable KYC/KYB processes as required by SDF before receiving any Referral Rewards.
+4.5 Tax, Compliance, and Verification. Referrers are solely responsible for any tax, reporting, or compliance obligations arising from the Referral Rewards. Referrers must complete all applicable KYC/KYB processes as required by the SDF before receiving any Referral Rewards.
 
-4.6 XLM Valuation. To determine the number of XLM equal to the USD value of any Referral Award, the USD valuation of XLM shall be calculated using the CF Stellar Lumens-Dollar Settlement Price as administered, maintained, and reported by the cryptocurrency index provider CF Benchmarks Ltd. (using the ticker “XLMUSD\_RR”) (available at https://www.cfbenchmarks.com/indices/XLMUSD\_RR), or, if such settlement price is unavailable or reasonably suspected by SDF to be unreliable, the settlement price as reported on a substantially similar and equally reputable cryptocurrency index provider as determined by the SDF in its sole discretion. The USD valuation of XLM for any particular Award shall be calculated using the CF Stellar Lumens-Dollar Settlement Price (or other agreed upon settlement price) reported on the day such Award is scheduled to be paid. The Referrers acknowledge and understand that XLM is a highly risky and volatile asset, and that SDF does not provide any representations, warranties, or guarantees of its value.
+4.6 XLM Valuation. To determine the number of XLM equal to the USD value of any Referral Award, the USD valuation of XLM shall be calculated using the CF Stellar Lumens-Dollar Settlement Price as administered, maintained, and reported by the cryptocurrency index provider CF Benchmarks Ltd. (using the ticker “XLMUSD\_RR”) (available at https://www.cfbenchmarks.com/indices/XLMUSD\_RR), or, if such settlement price is unavailable or reasonably suspected by the SDF to be unreliable, the settlement price as reported on a substantially similar and equally reputable cryptocurrency index provider as determined by the SDF in its sole discretion. The USD valuation of XLM for any particular Award shall be calculated using the CF Stellar Lumens-Dollar Settlement Price (or other agreed upon settlement price) reported on the day such Award is scheduled to be paid. The Referrers acknowledge and understand that XLM is a highly risky and volatile asset, and that the SDF does not provide any representations, warranties, or guarantees of its value.
 
 #### 5. Conduct Requirements
 
@@ -60,7 +60,7 @@ Current employees of SDF are not eligible to receive any Referral Rewards.
 
 #### 6. Privacy, Consent, and Data Use
 
-6.1 Consent to Share. Referrers represent and warrant that they have obtained all necessary permissions and consents from the Referred Party to share Referred Party’s contact information and any related project materials with SCF and/or SDF for the purposes contemplated under this program.\
+6.1 Consent to Share. Referrers represent and warrant that they have obtained all necessary permissions and consents from the Referred Party to share Referred Party’s contact information and any related project materials with SCF and/or the SDF for the purposes contemplated under this program.\
 \
 6.2 Data Handling. SCF will use submitted information for intake triage, communication, evaluation routing, reporting, program administration, and other program operations, and will process such information in accordance with applicable law and the privacy policy located here: https://www.stellar.org/privacy-policy.
 
@@ -80,11 +80,11 @@ Current employees of SDF are not eligible to receive any Referral Rewards.
 
 #### 9. Disclaimers
 
-9.1 No Agency. Referrers act solely as independent participants in the Referral Program and are not agents, representatives, or employees of SDF/SCF unless separately engaged in such a capacity under a formal agreement. Referrers do not have authority to bind SCF or SDF in any way.
+9.1 No Agency. Referrers act solely as independent participants in the Referral Program and are not agents, representatives, or employees of SDF/SCF unless separately engaged in such a capacity under a formal agreement. Referrers do not have authority to bind SCF or the SDF in any way.
 
-9.2 No Warranty. The Referral Program and any associated benefits, including Referral Rewards and recognition, are provided “as is”, at SCF’s sole discretion, and may be modified, paused, or discontinued at any time without notice. SCF and SDF make no representations or warranties, express or implied, regarding the Referral Program, including its availability, suitability, or any specific outcomes.
+9.2 No Warranty. The Referral Program and any associated benefits, including Referral Rewards and recognition, are provided “as is”, at SCF’s sole discretion, and may be modified, paused, or discontinued at any time without notice. SCF and the SDF make no representations or warranties, express or implied, regarding the Referral Program, including its availability, suitability, or any specific outcomes.
 
-9.3 No Recourse / Limitation of Liability. To the maximum extent permitted by applicable law, Referrers and Referred Parties agree that SCF, SDF, and their affiliates, officers, directors, and employees shall not be liable for any loss, damage, or claim arising out of or in connection with participation in the Referral Program, including any Referral Rewards, recognition, or decisions regarding eligibility, quality assessments, or status changes. Referrers and Referred Parties waive any right to seek damages, restitution, or other remedies from SCF or SDF in connection with the Referral Program.
+9.3 No Recourse / Limitation of Liability. To the maximum extent permitted by applicable law, Referrers and Referred Parties agree that SCF, the SDF, and their affiliates, officers, directors, and employees shall not be liable for any loss, damage, or claim arising out of or in connection with participation in the Referral Program, including any Referral Rewards, recognition, or decisions regarding eligibility, quality assessments, or status changes. Referrers and Referred Parties waive any right to seek damages, restitution, or other remedies from SCF or the SDF in connection with the Referral Program.
 
 9.4 Confidentiality. Referrers may have access to non-public information regarding the Referral Program, Referred Parties, or related initiatives. Referrers agree to maintain the confidentiality of such information, using it solely for the purpose of participating in the Referral Program, and not to disclose or use it for personal or third-party gain, except as required by law. This obligation continues for three (3) years following the conclusion of the Referral Program or any related engagement.
 

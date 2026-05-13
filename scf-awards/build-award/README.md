@@ -67,7 +67,7 @@ If you're looking to fund development and launch of a usable application or prot
 
 1.  **Prescreen**
 
-    SDF confirms your application is complete and meets the core eligibility criteria. <br>
+    the SDF confirms your application is complete and meets the core eligibility criteria. <br>
 2. **Panel Review**\
    A panel of SDF employees and community reviewers evaluate projects for:
    1. Ecosystem value;
@@ -95,7 +95,7 @@ This includes:
 * Confirming you meet all Participant Eligibility Requirements
 * Completing a KYC (Know Your Customer) or KYB (Know Your Business) form that collects compliance and tax-related information
 
-SDF uses this information to fulfill regulatory requirements for distributing XLM awards. The KYC form can be accessed at: [stellar.org/bd-kyc](https://stellar.org/bd-kyc)
+The SDF uses this information to fulfill regulatory requirements for distributing XLM awards. The KYC form can be accessed at: [stellar.org/bd-kyc](https://stellar.org/bd-kyc)
 
 &#x20;Any follow-on awards may also require additional legal and business due diligence.
 
@@ -125,4 +125,4 @@ The Stellar Community Fund relies heavily on signals from vetted referral source
 
 #### Disclaimer
 
-_\*To determine the number of XLM equal to the USD value of any Award, the USD valuation of XLM shall be calculated using the CF Stellar Lumens-Dollar Settlement Price as administered, maintained, and reported by the cryptocurrency index provider CF Benchmarks Ltd. (using the ticker “XLMUSD\_RR”) (available at https://www.cfbenchmarks.com/indices/XLMUSD\_RR), or, if such settlement price is unavailable or reasonably suspected by SDF to be unreliable, the settlement price as reported on a substantially similar and equally reputable cryptocurrency index provider as determined by the SDF in its discretion. The USD valuation of XLM for any particular Award shall be calculated using the CF Stellar Lumens-Dollar Settlement Price (or other agreed upon settlement price) reported on the day such Award is paid. The Participants acknowledge and understand that XLM is a highly risky and volatile asset, and that SDF does not provide any representations, warranties, or guarantees of its value._
+_\*To determine the number of XLM equal to the USD value of any Award, the USD valuation of XLM shall be calculated using the CF Stellar Lumens-Dollar Settlement Price as administered, maintained, and reported by the cryptocurrency index provider CF Benchmarks Ltd. (using the ticker “XLMUSD\_RR”) (available at https://www.cfbenchmarks.com/indices/XLMUSD\_RR), or, if such settlement price is unavailable or reasonably suspected by the SDF to be unreliable, the settlement price as reported on a substantially similar and equally reputable cryptocurrency index provider as determined by the SDF in its discretion. The USD valuation of XLM for any particular Award shall be calculated using the CF Stellar Lumens-Dollar Settlement Price (or other agreed upon settlement price) reported on the day such Award is paid. The Participants acknowledge and understand that XLM is a highly risky and volatile asset, and that the SDF does not provide any representations, warranties, or guarantees of its value._
