@@ -1,1 +1,5 @@
 shouldn t these varibles nit he scerdesitn here naad on ther pages be italizved orrrr a = the left horizontal asymptote, k = the right horizontal asymptote, c = 1, q = is related to the value Y(0), b = the growth rate, n = affects near which asymptote maximum growth occurs, o = X axis offset (current round # - 10), x = current round #
+
+
+
+also tehre are sepangi errorrs on the EMs like "r— a"
