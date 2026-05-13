@@ -18,7 +18,7 @@ description: >-
 
     → Better fit for [Instawards](../instawards/)
 * Teams building apps, protocols, or integrations for end users\
-  → Consider either the [Open Track ](open-track.md)or [Integration Track](integration-track/), depending on your focus
+  → Consider either the [Open Track ](open-track.md) or [Integration Track](integration-track/), depending on your focus
 * Teams proposing a tooling idea not aligned with an [active RFP](rfp-track.md#current-open-rfps)\
   →  Wait for a future RFP that matches your concept
 
@@ -224,7 +224,7 @@ Design and deliver a source code verification pipeline for Soroban smart contrac
 
 **Explicitly out of scope:**
 
-* Make updates to the existing SEP-55 spec itself (see[ ecosystem/sep-0055.md](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0055.md)). Coordination with SEP-55 evolution is expected.
+* Make updates to the existing SEP-55 spec itself (see [ecosystem/sep-0055.md](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0055.md)). Coordination with SEP-55 evolution is expected.
 * Integration of verification metadata into SDF-owned tooling (stellar-cli, Stellar Lab). SDF-owned tooling will consume the RFP service's APIs; building out those integrations is handled in-house. The RFP deliverable must expose the right APIs to make that integration straightforward.
 * Explorer UI work on any specific third-party explorer (Stellar Expert, Chain.dev), though the service must expose what they need to consume.
 * Fully deterministic Rust compilation as a research effort. The RFP should use the best available reproducibility today.
@@ -244,7 +244,7 @@ This gap has been raised repeatedly in the ecosystem:
 
 Downstream effects: explorers can't safely display source code, auditors can't rely on explorer-surfaced sources for review, and ecosystem partners are treating verification as a launch requirement.
 
-Other ecosystems have solved this via services like[ Sourcify](https://sourcify.dev) (EVM), which link deployed bytecode to reproducible source via tarball submission and rebuild. Stellar needs an equivalent that's either adapted from existing tooling or purpose-built for Soroban's toolchain. Respondents may propose either approach.
+Other ecosystems have solved this via services like [Sourcify](https://sourcify.dev) (EVM), which link deployed bytecode to reproducible source via tarball submission and rebuild. Stellar needs an equivalent that's either adapted from existing tooling or purpose-built for Soroban's toolchain. Respondents may propose either approach.
 
 **Reference links:**
 
@@ -269,7 +269,7 @@ Other ecosystems have solved this via services like[ Sourcify](https://sourcify.
 * Provide a verification result layer that explorers, Lab, wallets, and other consumers can query without performing their own rebuilds. Verification should be performed once and the result made available via API, so displaying verification status on a contract page is a cheap lookup rather than a full rebuild. This is a hard requirement: solutions that force every consumer to rebuild, or that rely on a single hardcoded verifier, do not meet the bar.
 * Support mainnet and testnet
 * Handle contracts deployed before verification service launch (retroactive verification for non-upgradable contracts is a priority requirement, given that many existing deployments cannot be redeployed)
-* Provide a CLI or developer-facing submission flow so contract authors can verify their own deployments. API should be shaped to allow integration with[ stellar-cli](https://github.com/stellar/stellar-cli)
+* Provide a CLI or developer-facing submission flow so contract authors can verify their own deployments. API should be shaped to allow integration with [stellar-cli](https://github.com/stellar/stellar-cli)
 * Expose verification metadata in a form consumable by explorers (Stellar Expert, Chain.dev,[ Stellar Lab](https://github.com/stellar/laboratory)) and other downstream tools
 * Coexist with the existing SEP-55 attestation flow. Attestation-based verification and source-tarball verification should be surfaced as distinct trust levels
 
@@ -293,7 +293,7 @@ Other ecosystems have solved this via services like[ Sourcify](https://sourcify.
 *   Relevant experience: prior work on Sourcify or equivalent services on other chains, or deep Soroban / Rust toolchain experience
 
     Security & audit history: track record of shipping audited infrastructure; clear threat modeling in the proposal
-* Ecosystem alignment: willingness to coordinate with explorer teams (Stellar Expert, Chain.dev), SDF tooling (stellar-cli, Stellar Lab), and the SEP-55 discussion in[ 1573](https://github.com/orgs/stellar/discussions/1573) and[ 1802](https://github.com/orgs/stellar/discussions/1802)
+* Ecosystem alignment: willingness to coordinate with explorer teams (Stellar Expert, Chain.dev), SDF tooling (stellar-cli, Stellar Lab), and the SEP-55 discussion in [1573](https://github.com/orgs/stellar/discussions/1573) and [1802](https://github.com/orgs/stellar/discussions/1802)
 * Ability to deliver within required timeline: realistic milestone plan, not over-promising
 * Coherent integration plan: clear story for how explorers and other consumers adopt the service, including API stability guarantees
 
@@ -309,7 +309,7 @@ Other ecosystems have solved this via services like[ Sourcify](https://sourcify.
 * Test suite covering verification logic, API, and rebuild environment
 * Security audit report and resolved findings (through Audit Bank)
 * Production-ready service with operational runbook and monitoring
-* At least one reference integration (ideally[ Stellar Lab](https://github.com/stellar/laboratory) or a cooperating explorer)
+* At least one reference integration (ideally [Stellar Lab](https://github.com/stellar/laboratory) or a cooperating explorer)
 
 </details>
 
@@ -396,4 +396,3 @@ Important: If you were referred by a member of the SCF community, make sure to i
 4. If reviewers agree Yes or No, the project moves forward. If reviewers disagree, a third reviewer is added to break the tie. At this stage, teams may be asked to meet with reviewers to go over their submission in more depth.
 5. Some teams may receive requested minor changes to their submission before funding.
 6. After making any requested changes, awarded submissions receive their first tranche of funding.
-
