@@ -3,3 +3,7 @@ shouldn t these varibles nit he scerdesitn here naad on ther pages be italizved 
 
 
 also tehre are sepangi errorrs on the EMs like "r— a"
+
+
+bxro wat r these dudu ;.;
+> Become a quarterly delegate for the SCF Build Award, be included in exclusive structure discussions, and propose, contribute and vote for governance proposals
