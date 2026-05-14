@@ -89,7 +89,7 @@ $$
 a+( k - a )(c + q * e(-b*(x - o)) )(1/n)
 $$
 
-<sup><sub>This formula was proposed by BlockScience (learn more about requirements and parameters<sub></sup> [<sup><sub>here<sub></sup>](https://hackmd.io/@blockscience/SkBilx67A) <sup><sub>and the parameter effects of<sub></sup> [<sup><sub>logistical curves on Wikipedia<sub></sup>](https://en.wikipedia.org/wiki/Generalised_logistic_function)<sup><sub>).<sub></sup> <sup><sub>a = the left horizontal asymptote, k = the right horizontal asymptote, c = 1, q = is related to the value Y(0), b = the growth rate, n = affects near which asymptote maximum growth occurs, o = X axis offset (current round # - 10), x = current round #<sub></sup>
+<sub>This formula was proposed by BlockScience (learn more about requirements and parameters <a href="https://hackmd.io/@blockscience/SkBilx67A">here</a> and the parameter effects of <a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">logistic curves on Wikipedia</a>). a = the left horizontal asymptote, k = the right horizontal asymptote, c = 1, q = is related to the value Y(0), b = the growth rate, n = affects near which asymptote maximum growth occurs, o = X axis offset (current round # - 10), x = current round #</sub>
 
 In the graph below, we chose arbitrary values (a = 0, k = 1, c = 1, q = 1, b = 1, n = 4, o = 22, and x = 33) to add mild effects influenced by round importance over the number of rounds. Weights for each round user voted in, are multiplied by a percentage of active votes of this user. Although it is set to always be at least 30%, because not all Tiers are allowed to actively vote.
 
@@ -171,7 +171,7 @@ $$
 PR(A) = \frac{1-d}{n} + d \sum_{B \in M(A)} \frac{PR(B)}{L(B)}
 $$
 
-<sup><sub>PR(A) - page rank value for user A, d - damping factor, in our case 0.85 (typical, commonly used value), n - number of users, BM(A) - some other user B that belongs to the set of all users trusting user A, PR(B) - page rank value for user B, L(B) - number of users trusted by user B<sub></sup>
+<sub>PR(A) - page rank value for user A, d - damping factor, in our case 0.85 (typical, commonly used value), n - number of users, BM(A) - some other user B that belongs to the set of all users trusting user A, PR(B) - page rank value for user B, L(B) - number of users trusted by user B</sub>
 
 So for user A, we take 1-dn, add our damping factor multiplied by the sum of all trust scores of users trusting our user A, divided by how many users they trust. This means that trust from someone trusting less users is worth more.
 
