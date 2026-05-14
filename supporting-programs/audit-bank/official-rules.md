@@ -34,7 +34,7 @@ Projects interested in participating must submit an audit request using a provid
 * Development status and GitHub repositories
 * Previous security practices or audits
 
-Use the [Audit Readiness Checklist ](audit-readiness-checklist.md) and make sure your submission meets all the criteria to pass Readiness Review.&#x20;
+Use the [Audit Readiness Checklist](audit-readiness-checklist.md) and make sure your submission meets all the criteria to pass Readiness Review.&#x20;
 
 #### **Phase 2: Readiness Review**
 
@@ -160,7 +160,7 @@ SDF’s failure to enforce any term of the Official Rules shall not constitute a
 
 #### 4) Data Privacy and Confidentiality
 
-SDF collects personal information from Participants when they enter the Soroban Security Audit Bank. The information collected is subject to the privacy policy located here:[ https://www.stellar.org/privacy-policy](https://www.stellar.org/privacy-policy)
+SDF collects personal information from Participants when they enter the Soroban Security Audit Bank. The information collected is subject to the privacy policy located here: [https://www.stellar.org/privacy-policy](https://www.stellar.org/privacy-policy)
 
 Any and all code, documentation, or other proprietary materials (“Confidential Information”) that Participants submit to SDF for the purposes of the Program will be protected by SDF. SDF will not use Participants’ Confidential Information for any purpose other than to perform its readiness review and assign an audit firm for the audit. Access to Participants’ Confidential Information will be restricted to SDF personnel who are directly involved in the Program. SDF’s confidentiality obligations will not extend to any information that is (a) already publicly known, (b) independently developed by SDF without reference to a Participant’s Confidential Information, (c) becomes known to SDF through disclosure by sources other than a Participant without such sources violating any confidentiality obligations to such Participant, or (d) required to be disclosed by law.
 

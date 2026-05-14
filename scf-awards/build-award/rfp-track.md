@@ -18,7 +18,7 @@ description: >-
 
     → Better fit for [Instawards](../instawards/)
 * Teams building apps, protocols, or integrations for end users\
-  → Consider either the [Open Track ](open-track.md) or [Integration Track](integration-track/), depending on your focus
+  → Consider either the [Open Track](open-track.md) or [Integration Track](integration-track/), depending on your focus
 * Teams proposing a tooling idea not aligned with an [active RFP](rfp-track.md#current-open-rfps)\
   →  Wait for a future RFP that matches your concept
 
@@ -237,7 +237,7 @@ This gap has been raised repeatedly in the ecosystem:
 
 * SEP-55 spec discussion ([stellar/discussions/1573](https://github.com/orgs/stellar/discussions/1573)): OrbitLens has noted that without a fixed build pipeline, attestation-based verification "provides a false sense of security." The merged v0.4.0 explicitly scopes itself to providing "unfalsifiable evidence that a contract has been compiled automatically using a particular GitHub repository," not that the displayed source matches the deployed binary.
 * Post-deploy verification discussion ([stellar/discussions/1802](https://github.com/orgs/stellar/discussions/1802)): tracks ongoing work on alternatives to attestation-based verification.
-* Experimental work in progress:[ stellar-experimental/contract-verifications](https://github.com/stellar-experimental/contract-verifications) is an in-house prototype, but has not been built out to production.
+* Experimental work in progress: [stellar-experimental/contract-verifications](https://github.com/stellar-experimental/contract-verifications) is an in-house prototype, but has not been built out to production.
 * Partner requirement: during launch prep, a major ecosystem partner demonstrated a malicious Wasm receiving "build verified" status while linking to unrelated source code. They cited Solana's foundation-provided Docker image as the model they expected ("makes the bytecode deterministic and doesn't rely on external tooling"). This was the immediate driver for removing the Stellar Lab source code tab ([laboratory/issues/2045](https://github.com/stellar/laboratory/issues/2045)) as a stopgap fix while a real solution is built.
 * Complementary CLI work: Leigh McCulloch's proposal ([stellar-cli#2506](https://github.com/stellar/stellar-cli/issues/2506)) adds a --docker option to stellar contract build and a stellar contract verify command. The build records the Docker image digest and CLI version in contract metadata, and the verify command rebuilds from source and compares output. This solves the build reproducibility layer from the cli, but leaves open how verification status gets displayed across explorers, Lab, and wallets without each consumer independently rebuilding every contract or delegating to a single centralized verifier. This RFP fills that gap.
 * Internal alignment on boundary: SDF engineering has previously flagged that tooling integration work (stellar-cli, Stellar Lab, and partnerships with explorers) is best handled in-house, while a public service that performs rebuilds and verifications is a natural fit for external funding. This RFP sits on the public-service side of that line.
@@ -248,14 +248,14 @@ Other ecosystems have solved this via services like [Sourcify](https://sourcify.
 
 **Reference links:**
 
-* Post-deploy verification discussion:[ https://github.com/orgs/stellar/discussions/1802](https://github.com/orgs/stellar/discussions/1802)
-* SEP-55 spec:[ https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0055.md](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0055.md)
+* Post-deploy verification discussion: [https://github.com/orgs/stellar/discussions/1802](https://github.com/orgs/stellar/discussions/1802)
+* SEP-55 spec: [https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0055.md](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0055.md)
 * \[Prototype] Contract Source Verification using Docker without Attestation [https://github.com/orgs/stellar/discussions/1923](https://github.com/orgs/stellar/discussions/1923)
-* SEP-55 spec discussion:[ https://github.com/orgs/stellar/discussions/1573](https://github.com/orgs/stellar/discussions/1573)
-* Stellar Lab issue:[ https://github.com/stellar/laboratory/issues/2045](https://github.com/stellar/laboratory/issues/2045)
+* SEP-55 spec discussion: [https://github.com/orgs/stellar/discussions/1573](https://github.com/orgs/stellar/discussions/1573)
+* Stellar Lab issue: [https://github.com/stellar/laboratory/issues/2045](https://github.com/stellar/laboratory/issues/2045)
 * Reference solutions
-  * Stellar CLI reproducible builds proposal:[ https://github.com/stellar/stellar-cli/issues/2506](https://github.com/stellar/stellar-cli/issues/2506)
-  * In-house prototype:[ https://github.com/stellar-experimental/contract-verifications](https://github.com/stellar-experimental/contract-verifications)
+  * Stellar CLI reproducible builds proposal: [https://github.com/stellar/stellar-cli/issues/2506](https://github.com/stellar/stellar-cli/issues/2506)
+  * In-house prototype: [https://github.com/stellar-experimental/contract-verifications](https://github.com/stellar-experimental/contract-verifications)
   * Solana’s solution [https://solana.com/docs/programs/verified-builds](https://solana.com/docs/programs/verified-builds)
 
 #### 3. Requirements
@@ -270,12 +270,12 @@ Other ecosystems have solved this via services like [Sourcify](https://sourcify.
 * Support mainnet and testnet
 * Handle contracts deployed before verification service launch (retroactive verification for non-upgradable contracts is a priority requirement, given that many existing deployments cannot be redeployed)
 * Provide a CLI or developer-facing submission flow so contract authors can verify their own deployments. API should be shaped to allow integration with [stellar-cli](https://github.com/stellar/stellar-cli)
-* Expose verification metadata in a form consumable by explorers (Stellar Expert, Chain.dev,[ Stellar Lab](https://github.com/stellar/laboratory)) and other downstream tools
+* Expose verification metadata in a form consumable by explorers (Stellar Expert, Chain.dev, [Stellar Lab](https://github.com/stellar/laboratory)) and other downstream tools
 * Coexist with the existing SEP-55 attestation flow. Attestation-based verification and source-tarball verification should be surfaced as distinct trust levels
 
 **Non-functional requirements:**
 
-* Explain your approach in the post-deploy verification discussion thread:[ https://github.com/orgs/stellar/discussions/1802](https://github.com/orgs/stellar/discussions/1802)
+* Explain your approach in the post-deploy verification discussion thread: [https://github.com/orgs/stellar/discussions/1802](https://github.com/orgs/stellar/discussions/1802)
 * Security: tarball storage must be tamper-evident; rebuild environment must be isolated from host; submitted code must not be able to exfiltrate secrets or affect other submissions
 * Audit: a third-party security audit is required before production launch; audit scope to include rebuild environment, tarball integrity, and API authentication
 * UX: a contract developer should be able to verify a deployed contract in under 15 minutes from reading the docs to seeing the verification appear
