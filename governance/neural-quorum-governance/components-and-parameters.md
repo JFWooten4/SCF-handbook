@@ -214,7 +214,7 @@ $$
 T_f = \frac{M \cdot T_c}{100}
 $$
 
-<sub>Where: D = what % of previous trust is current trust, Tc = current trust (page rank + HTB from current round), Tp =  previous trust (page rank + HTB from previous round), M =  outcome of Generalized Logistic Function with D as an input, and some arbitrary parameters, Tf =  final trust score</sub>&#x20;
+<small>Where: $D$ = what % of previous trust is current trust, $T_c$ = current trust (page rank + HTB from current round), $T_p$ = previous trust (page rank + HTB from previous round), $M$ = outcome of Generalized Logistic Function with $D$ as an input, and some arbitrary parameters, $T_f$ = final trust score</small>&#x20;
 
 This algorithm doesn’t affect users whose trust score grows, or stays around the same level. Only if you lose a lot of trust between rounds, you will be affected by an even bigger trust score loss.
 
