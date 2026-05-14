@@ -227,7 +227,7 @@ After all 3 neurons are calculated, the results are aggregated together to give 
 | Layer 1 | <p>Trust Graph</p><p>Assigned Reputation</p><p>Vote Quality</p> | Sum             | Adds results of all neurons       |
 | Layer 2 | Prior Voting History                                            | Product         | Multiplies results of all neurons |
 
-<sub>_Note: Layer 2 is designed to return the product (multiply all values) of the neurons, so if there were 2 neurons, Layer 2 would return neuron1 x neuron2 but currently it has only one neuron, hence Layer 2 output is equal to this single neuron output._</sub>
+<sub>_Note: Layer 2 is designed to return the product (multiply all values) of the neurons, so if there were 2 neurons, Layer 2 would return $\text{neuron}_1 \cdot \text{neuron}_2$ but currently it has only one neuron, hence Layer 2 output is equal to this single neuron output._</sub>
 
 Then results of both Layers are summed together to give final voting power.
 
