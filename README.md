@@ -72,7 +72,7 @@ Check out our [FAQ section](additional-support/faq.md)! Have questions not addre
 
 _April 2026_
 
-* Estimated development time for each partner added to [integration track list,](scf-awards/build-award/integration-track/integration-list.md) with more info [here.](https://airtable.com/appymB1sbp5uidiGe/shrQFLSRUqxI7tBdT) Teams should use these to scope their budgets appropriately, and delegates will cross-reference them when reviewing&#x20;
+* Estimated development time for each partner added to [integration track list](scf-awards/build-award/integration-track/integration-list.md), with more info [here](https://airtable.com/appymB1sbp5uidiGe/shrQFLSRUqxI7tBdT). Teams should use these to scope their budgets appropriately, and delegates will cross-reference them when reviewing&#x20;
 * Additional guidelines added around "what makes a strong Open Track submission" section.  &#x20;
 * Additional guidelines and requirements added for [RFP submissions](scf-awards/build-award/rfp-track.md).&#x20;
 * RFP track delegates agreed to push Q2 RFPs to SCF #44. There will be no open RFPs for the SCF #43 submission window.&#x20;
