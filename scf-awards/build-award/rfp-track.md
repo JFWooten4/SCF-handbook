@@ -20,27 +20,27 @@ description: >-
 * Teams building apps, protocols, or integrations for end users\
   → Consider either the [Open Track ](open-track.md)or [Integration Track](integration-track/), depending on your focus
 * Teams proposing a tooling idea not aligned with an [active RFP](rfp-track.md#current-open-rfps)\
-  →  Wait for a future RFP that matches your concept
+  → Wait for a future RFP that matches your concept
 
 #### 📋 Requirements
 
-* The submission must address an [open RFP](rfp-track.md#current-open-rfps) from the current quarter—read the RFP carefully and respond directly to its needs.&#x20;
-  * Your proposal does not need to address all points of the RFP, but you should articulate reasoning for a limited scope.&#x20;
+* The submission must address an [open RFP](rfp-track.md#current-open-rfps) from the current quarter—read the RFP carefully and respond directly to its needs.
+  * Your proposal does not need to address all points of the RFP, but you should articulate reasoning for a limited scope.
 * You must clearly show:
   * Why you’re a good fit to solve this (provide examples of past dev-focused work, and share open-sourced repos if possible)
   * What makes your solution technically strong
-  * Clear, testable milestones&#x20;
+  * Clear, testable milestones
   * How your tool will be maintained post-launch
   * A high-level visual diagram (Mermaid or similar) and a plain-English explanation of the technical stack.
-* Provide a clear explanation on how your project will be decentralized—if not, why?&#x20;
-* Explain what infrastructure the project runs on.&#x20;
+* Provide a clear explanation on how your project will be decentralized—if not, why?
+* Explain what infrastructure the project runs on.
 * Provide an explanation of plans for user tracking and efforts to limit and protect users
 * Commitment to regularly updating the community on project status
-* Your project should use the most recent stable release of the Stellar tech stack&#x20;
+* Your project should use the most recent stable release of the Stellar tech stack
 * Include licensing scheme and commitment to building in the open
   * Consider using Open Source Software like Matrix and decentralized networks (Mastodon / BlueSky) to communicate with your audience
 
-#### Current Open RFPs&#x20;
+#### Current Open RFPs
 
 _**May 11, 2026: New Q2 RFPs are open for submissions for SCF #**_**43!**
 
@@ -180,7 +180,7 @@ Core requirements for a production Account Demolisher:
 * The tool should provide an option to view active token allowances and retrieve active authorizations without removing the account. This helps users to secure their funds in case of allowance-based DeFi protocol exploits.
 * Soroban support -- full parity with classic assets.
 * The UI should support stellar-wallets-kit and direct secret key input. Merging multisig accounts might require gathering signatures from several key pairs, so the interface should support adding multiple secret keys or signing transactions with different Stellar wallets.
-* This tool should be implemented in a trust-minimization, non-custodial manner. All transactions should be signed on the client side. Secret keys should never be transferred to the server side. The tool should&#x20;
+* This tool should be implemented in a trust-minimization, non-custodial manner. All transactions should be signed on the client side. Secret keys should never be transferred to the server side. The tool should
 * Safety features: confirmation flows, clear warnings and where possible, a dry-run / preview mode (for most accounts clearing all active entries will require several sequential transactions, so it will be challenging to create a clear dry-run output, would like to see the proposers approach here).
 * Open source, permissive license -- existing [stellar.expert/demolisher](http://stellar.expert/demolisher) code can be a starting point.
 * Production-grade UX -- this tool handles irreversible actions and must be trustworthy.
@@ -359,7 +359,7 @@ The deliverable is a developer/end-user-facing toolkit, not a new contract primi
 * A context rule + policy synthesizer that converts the recorded transaction(s) into a proposed context rule (scope: which contracts and functions; lifetime: how long the permission lasts) plus the smallest set of policies needed to constrain the rule (e.g. spending limits derived from the observed amounts, frequency limits, time bounds). The synthesizer should bias toward minimal permissions -- if a transaction sequence only ever calls two functions with two specific assets, the generated rule should not permit a third.
 * Generated policy code in Rust, suitable for compilation as a Soroban contract, leveraging existing OZ-provided policy primitives (simple\_threshold, weighted\_threshold, spending\_limit) wherever they suffice. The tool should compose existing policies first and only generate net-new policy contracts when the constraint cannot be expressed by combining standard ones. Where new policy code is generated, it must implement the Policy trait correctly, including proper storage segregation for stateful cases.
 * An MCP server that exposes the recording, synthesis, and verification capabilities to agents, so that an AI agent can both request a policy be drafted from a sample transaction and operate under that policy once installed. The MCP interface should be agent-friendly: structured inputs/outputs, deterministic behavior, machine-readable error codes. Get inspiration from the [Cloudflare Agent Setup](https://developers.cloudflare.com/agent-setup/) and how they handle plugins, mcp and skills.
-* An Agent skill (or equivalent for other agent frameworks) that wraps the MCP and gives an agent a high-level conversational entry point: "the user wants to grant permission to do X; here is a transaction they performed; draft a policy." The skill should know when to ask for clarification (e.g., "this transaction transferred 50 USDC -- should the policy cap at 50, or allow up to 100 over a week?"). Can be for Claude and similar tools.&#x20;
+* An Agent skill (or equivalent for other agent frameworks) that wraps the MCP and gives an agent a high-level conversational entry point: "the user wants to grant permission to do X; here is a transaction they performed; draft a policy." The skill should know when to ask for clarification (e.g., "this transaction transferred 50 USDC -- should the policy cap at 50, or allow up to 100 over a week?"). Can be for Claude and similar tools.
 * A simulation / dry-run harness that tests a generated policy against (a) the original recorded transaction (must permit), (b) a set of adjacent transactions that should be denied (e.g., same operations but different asset, larger amount, or out-of-window timing), so the user can verify the policy is neither too strict nor too permissive before installing it.
 * Integration with at least one existing Stellar wallet supporting OZ smart accounts (e.g., a wallet from the C-Address Tooling cohort) so the policy install flow is end-to-end demonstrable: record -> generate -> simulate -> sign -> install on a real smart account.
 * Documentation and examples covering at least three end-to-end policy generation walkthroughs from real Stellar use cases (Tyler suggested Blend yield-claim flows; other candidates include subscription billing on a SEP-41 token, delegated trading on Soroswap with bounded slippage).
@@ -400,7 +400,7 @@ If you have an need for a tool or infrastructure that would meet an immediate ec
 1. Submit the SCF Interest form and indicate your interest in the RFP Track.
 
 {% hint style="info" %}
-Important: If you were referred by a member of the SCF community, make sure to include their unique referral code on this form.&#x20;
+Important: If you were referred by a member of the SCF community, make sure to include their unique referral code on this form.
 {% endhint %}
 
 2. Eligible teams will be invited to submit to an upcoming Build round. Submit your Build form before the deadline and choose the RFP Track. In the submission form, clearly identify which open RFP you’re addressing.
@@ -408,4 +408,4 @@ Important: If you were referred by a member of the SCF community, make sure to i
 4. If reviewers agree Yes or No, the project moves forward. If reviewers disagree, a third reviewer is added to break the tie. At this stage, teams may be asked to meet with reviewers to go over their submission in more depth.
 5. Some teams may receive requested minor changes to their submission before funding.
 6. After making any requested changes, awarded submissions receive their first tranche of funding.
-
+7. Once funded, each subsequent tranche must be submitted within 90 days of the previous payment. Teams that miss a deadline without notifying the SCF team in advance forfeit the remainder of their award. See Tranches & Deliverables and the Official Rules for full details.
