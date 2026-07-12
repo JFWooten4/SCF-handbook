@@ -127,7 +127,7 @@ SCF #4 attracted 17 proposals, and 190 unique eligible voters voted for eight wi
 
 ### **SCF#5 - When the entire world voted twice**
 
-[SCF #5](https://medium.com/stellar-community/stellar-community-fund-round-5-2116acfa7a58?source=collection_detail----89c348dcf743-----60-----------------------) was off to races stronger than ever: improved support guides for submission, and even an ability to select relevant project categories. New rules were also introduced that prevented a project from winning more than once per year (or per block of four rounds), and losing proposals could re-enter no more than twice per year pending entry improvements. The reason? Most projects from previous SCF rounds originated in the SBC, of which many enjoyed regular paychecks from the fund over the years but weren’t actually on a path to becoming self-sustainable. This behavior contradicted the purpose of the SCF to foster the growth of the Stellar ecosystem, so things needed to change radically:
+[SCF #5](https://medium.com/stellar-community/stellar-community-fund-round-5-2116acfa7a58) was off to races stronger than ever: improved support guides for submission, and even an ability to select relevant project categories. New rules were also introduced that prevented a project from winning more than once per year (or per block of four rounds), and losing proposals could re-enter no more than twice per year pending entry improvements. The reason? Most projects from previous SCF rounds originated in the SBC, of which many enjoyed regular paychecks from the fund over the years but weren’t actually on a path to becoming self-sustainable. This behavior contradicted the purpose of the SCF to foster the growth of the Stellar ecosystem, so things needed to change radically:
 
 > “The SCF is a fund for work completed or proven not for a promise of future work. For applications and content there must be significant work and effort put into proving the viability and commitment to your project and for events you should have a history demonstrating your ability and qualification to carry out your intentions.” —Tyler van der Hoeven, June 20 2020 in [Stellar Community Medium](https://medium.com/stellar-community/stellar-community-fund-round-5-2116acfa7a58).&#x20;
 
@@ -169,9 +169,9 @@ A new website, [communityfund.stellar.org](https://communityfund.stellar.org/), 
 
 ### **SCF#6 - The Lab Fund for developers to experiment**
 
-On August 31, 2020, the [Lab Fund (SCF#6) opened for submissions](https://medium.com/stellar-community/stellar-community-fund-2-0-4b67d62005ec?source=collection_detail----89c348dcf743-----44-----------------------), receiving 19 submissions, of which the jury panel deemed nine finalists ready for participation. While counting the votes it turned out that while the new SMS verification method did slow down bad actors, it couldn’t prevent them entirely: out of the 491 votes, 310 were deemed valid after an objective review.
+On August 31, 2020, the [Lab Fund (SCF#6) opened for submissions](https://medium.com/stellar-community/stellar-community-fund-2-0-4b67d62005ec), receiving 19 submissions, of which the jury panel deemed nine finalists ready for participation. While counting the votes it turned out that while the new SMS verification method did slow down bad actors, it couldn’t prevent them entirely: out of the 491 votes, 310 were deemed valid after an objective review.
 
-The new system tracked statistics to get [more insight into voter behavior](https://medium.com/stellar-community/scf-lab-fund-1-retrospective-6fc4d9fa7ce7?source=collection_detail----89c348dcf743-----31-----------------------): of the ‘valid’ 310 voters, the average time spent selecting and confirming votes was a mere 90 seconds. Also, the percentage of votes from users who voted for all credits on one project was very high. This indicated that most voters were likely friends and family of the projects who didn’t read the proposals and simply voted for their friend.
+The new system tracked statistics to get [more insight into voter behavior](https://medium.com/stellar-community/scf-lab-fund-1-retrospective-6fc4d9fa7ce7): of the ‘valid’ 310 voters, the average time spent selecting and confirming votes was a mere 90 seconds. Also, the percentage of votes from users who voted for all credits on one project was very high. This indicated that most voters were likely friends and family of the projects who didn’t read the proposals and simply voted for their friend.
 
 The mechanics of flaggable quadratic voting (FQV) produced the intended result of a more logarithmic sentiment distribution versus a stagnant linear one but did nothing to prevent voter manipulation. Also, the inherently complex system was difficult to understand, and many of the ‘real’ voters wondered if they had voted correctly. A lot of time and effort was spent building a complex voting system that did not make much of a difference in the end.
 
@@ -181,7 +181,7 @@ Also, votes were heavily influenced by the number of votes a project had already
 
 Even though we learned a ton in the Lab Fund, the Seed Fund (SCF#7) was a real game changer for SCF history. This fund supported many projects still successful today with hundreds of thousand dollars each. Its first round opened on January 18, 2021, when penny stocks skyrocketed, and the bull market was in full swing. The competition was fierce, with 58 great submissions! It was by far one of the best competitions in terms of the sheer number of high-quality entries.
 
-After two months of deliberation, a [panel of 20 judges narrowed the field to eight finalists](https://medium.com/stellar-community/announcing-stellar-community-seed-fund-1-finalists-3e9e95d41793?source=collection_detail----89c348dcf743-----22-----------------------) (not the 3-5 originally planned due to a four-way tie for fifth place). Learning from the Lab Fund, the team made necessary, although unannounced, changes to open up voting to only a select group of SDF and community members (about 50 handpicked at the time). This abrupt decision-making received some pushback but ultimately resulted in a better and fairer approach than all previous SCF rounds.
+After two months of deliberation, a [panel of 20 judges narrowed the field to eight finalists](https://medium.com/stellar-community/announcing-stellar-community-seed-fund-1-finalists-3e9e95d41793) (not the 3-5 originally planned due to a four-way tie for fifth place). Learning from the Lab Fund, the team made necessary, although unannounced, changes to open up voting to only a select group of SDF and community members (about 50 handpicked at the time). This abrupt decision-making received some pushback but ultimately resulted in a better and fairer approach than all previous SCF rounds.
 
 Each of the eight finalists walked away with $200K-350K worth of XLM, amounts SCF had never given away before, setting the tone for yet another iteration of community funding.
 
@@ -201,7 +201,7 @@ In contrast of previous SCF rounds, SCF 3.0 focused efforts to other areas besid
 
 ### **SCF #8 + #9 - Gaining traction**
 
-The new changes worked: [SCF#8 received 68 submissions](https://medium.com/stellar-community/announcing-the-winners-of-scf-8-d3d31167a52d) and [SCF#9 received 80](https://medium.com/stellar-community/announcing-the-winners-of-scf-9-db1e0c770e54?source=collection_detail----89c348dcf743-----10-----------------------), an increase in 280% from the 2020 SCF rounds!
+The new changes worked: [SCF#8 received 68 submissions](https://medium.com/stellar-community/announcing-the-winners-of-scf-8-d3d31167a52d) and [SCF#9 received 80](https://medium.com/stellar-community/announcing-the-winners-of-scf-9-db1e0c770e54), an increase in 280% from the 2020 SCF rounds!
 
 Before SCF #9’s submission deadline, SDF held two exciting events: 1) the first Blockchain Bootcamp to support Stellar-based fintechs operating in Africa, and 2) a virtual Techstars Startup Weekend Latam with Stellar and Visa aiming to boost innovation in Latin America. The majority of participants in both events applied to the Stellar Community Fund, which led to an increase in diverse participation.
 
@@ -296,7 +296,7 @@ SCF started to adopt Neural Quorum Governance to support the signaling award all
 \
 A new user dashboard and redesigned website were added to improve user experience, both for submitting projects and reviewing community members.
 
-The SCF team expanded with Gemma, who gradually took over day-to-day operations of the fund from Anke. With the additional internal bandwidth on SDF, SCF was able to i.e. restart [round recap blogs](https://medium.com/stellar-community/scf-20-recap-88ef88935257?source=collection_detail----89c348dcf743-----5-----------------------) on the Stellar Community Medium.
+The SCF team expanded with Gemma, who gradually took over day-to-day operations of the fund from Anke. With the additional internal bandwidth on SDF, SCF was able to i.e. restart [round recap blogs](https://medium.com/stellar-community/scf-20-recap-88ef88935257) on the Stellar Community Medium.
 
 ***
 
