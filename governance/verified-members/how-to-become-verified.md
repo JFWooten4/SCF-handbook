@@ -62,5 +62,3 @@ A member will see a warning status on the SCF Dashboard as well as receive a war
 In exceptional cases (e.g. serious [Stellar Code of Conduct](https://stellar.org/foundation/code-of-conduct) violations), Pilots may nominate an immediate downgrade or entire removal of roles for the user in question for downgrade or removal of tiers entirely, which needs to be supported by at least 5 Pilots.&#x20;
 
 In sensitive cases where anonymity and/or threading lightly is of essence, any verified member can remove a user in question from their trusted user list. If it causes a significant drop in voting power from these actions (i.e. a lot of users with (significant) voting power untrust this user), it triggers an accelerated loss of voting power for this user (and thus initiating the automated downgrade process).&#x20;
-
-<br>

@@ -23,7 +23,7 @@ In order to be invited to submit an application to the Liquidity Awards Program 
 
 * **Business Criteria**: Projects must have a fully functioning financial protocol/application deployed on Stellar mainnet that demonstrates a viable use case, business model, and show potential for adoption from either users and/or community.
 * **Technical Criteria**: Projects must have a completed valid security audit from an SDF recognized audit firm, with any outstanding vulnerabilities and issues resolved.
-* **Legal Criteria**: Projects must have passed SDF’s KYC, Risk Assessment, and Due Diligence checks.<br>
+* **Legal Criteria**: Projects must have passed SDF’s KYC, Risk Assessment, and Due Diligence checks.
 
 In order to also qualify for the Supplemental Liquidity Award, Projects must have met the initial Liquidity Award criteria as stated above, received an initial Liquidity Award and then also meet the following criteria:
 

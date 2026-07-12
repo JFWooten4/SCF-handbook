@@ -105,5 +105,3 @@ Each Participant is solely responsible for the security and safeguarding of any 
 **5.10 Contact**
 
 Join the Stellar community on [Discord](https://discord.gg/stellardev). If you have any specific questions or concerns you can also email SDF at [communityfund@stellar.org](mailto:communityfund@stellar.org). While we are happy to assist with questions, in the event of any discrepancy or inconsistency, the Official Rules shall ultimately prevail.
-
-<br>
