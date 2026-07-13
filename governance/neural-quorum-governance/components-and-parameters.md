@@ -147,7 +147,7 @@ For any given user since SCF #30, we go over all votes of given user, since roun
 * Not live on Stellar within 6 months, Testnet -0.1
 
 {% hint style="info" %}
-**Example**: In previous rounds, a user voted for one project that went live on stellar within 6 months, and one that is on testnet after 6 months, so his bonus will be 0.3 - 0.1 = 0.2 points.
+**Example**: In previous rounds, a user voted for one project that went live on stellar within 6 months and one that is on testnet after 6 months, so his bonus will be 0.3 - 0.1 = 0.2 points.
 {% endhint %}
 
 #### **1.2.4. Trust Graph Neuron**
@@ -223,7 +223,7 @@ This algorithm doesn’t affect users whose trust score grows, or stays around t
 
 #### **1.2.4. Trust Loss Neuron**
 
-The Trust Loss Neuron tracks how a person's reputation changes between voting rounds by watching how many users stop trusting them, and can generate only 0 or negative outputs. If many community members removed you from their trust list since the last round, your score goes down by one point for each person who did. If nobody withdrew their trust, your score doesn’t change. Output from this neuron is also added to your NQG score, and is not tied to the Trust graph.
+The Trust Loss Neuron tracks how a person's reputation changes between voting rounds by watching how many users stop trusting them, and it can generate only 0 or negative outputs. If many community members removed you from their trust list since the last round, your score goes down by one point for each person who did. If nobody withdrew their trust, your score doesn’t change. Output from this neuron is also added to your NQG score. It is not tied to the Trust graph.
 
 ### **1.3. Calculating Final Neural Governance Score**
 
