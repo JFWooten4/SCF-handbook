@@ -64,7 +64,7 @@ You can find step-by-step submission instructions for each program here in the h
 
 * Entities in which either the Matching Fund or Enterprise Fund have invested are not eligible to receive an SCF Award.
 * Recipients of any currently outstanding[ Research & Development Grant](https://stellar.org/foundation/r-d-grants?locale=en) and/or[ Academic Research Grant](https://www.stellar.org/foundation/academic-research-grants?locale=en) are not eligible to receive an SCF Award unless and until such recipient has submitted all required deliverables and fulfilled all obligations under their respective Grant Agreement(s).
-* Recipients of any currently outstanding[ Marketing Grant](https://stellar.org/foundation/marketing-grants),[ Currency Support Grant](https://www.stellar.org/foundation/mandate#ecosystem-support), and[ Ecosystem Infrastructure Grant](https://www.stellar.org/foundation/mandate#direct-development), will not be eligible to receive an SCF Award for any project or deliverable that falls within the scope, whether directly or indirectly, of their respective Grant Agreement(s).
+* Recipients of any currently outstanding[ Marketing Grant](https://stellar.org/foundation/marketing-grants),[ Currency Support Grant](https://www.stellar.org/foundation/mandate#ecosystem-support), and[ Ecosystem Infrastructure Grant](https://www.stellar.org/foundation/mandate#direct-development) will not be eligible to receive an SCF Award for any project or deliverable that falls within the scope, whether directly or indirectly, of their respective Grant Agreement(s).
 
 </details>
 
