@@ -15,7 +15,7 @@ The Stellar Community Fund leverages community input to fund and support Web3 te
 
 **Who runs SCF?**
 
-The SCF is operated by the Stellar Development Foundation (SDF), with input from the Stellar community and verified members.
+The SCF is operated by the Stellar Development Foundation (the SDF), with input from the Stellar community and verified members.
 
 **What can I apply for?**
 
@@ -73,7 +73,7 @@ Check out our [FAQ section](additional-support/faq.md)! Have questions not addre
 _July 2026_
 
 * Implementation of timegating policy between tranches. Teams that miss a deadline without notifying the SCF team in advance forfeit the remainder of their award. See [Budget & Deliverables](scf-awards/build-award/budget-and-deliverable-guidelines.md) and the [Official Rules](scf-awards/instawards/official-rules.md) for full details.
-* SDF may require awarded teams to re-complete KYC/KYB at any point in the award process.
+* The SDF may require awarded teams to re-complete KYC/KYB at any point in the award process.
 
 _April 2026_
 

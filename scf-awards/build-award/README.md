@@ -68,7 +68,7 @@ If you're looking to fund development and launch of a usable application or prot
 
 1.  **Prescreen**
 
-    SDF confirms your application is complete and meets the core eligibility criteria.<br>
+    The SDF confirms your application is complete and meets the core eligibility criteria.<br>
 2. **Panel Review**\
    A panel of SDF employees and community reviewers evaluate projects for:
    1. Ecosystem value;
@@ -96,13 +96,13 @@ This includes:
 * Confirming you meet all Participant Eligibility Requirements
 * Completing a KYC (Know Your Customer) or KYB (Know Your Business) form that collects compliance and tax-related information
 
-SDF uses this information to fulfill regulatory requirements for distributing XLM awards. The KYC form can be accessed at: [stellar.org/bd-kyc](https://stellar.org/bd-kyc)
+The SDF uses this information to fulfill regulatory requirements for distributing XLM awards. The KYC form can be accessed at: [stellar.org/bd-kyc](https://stellar.org/bd-kyc)
 
 Any follow-on awards may also require additional legal and business due diligence.
 
 **🔄 Ongoing KYC/KYB**
 
-SDF may require you to re-complete KYC/KYB or additional due diligence at any point during your award. This can be triggered by material changes to your company’s business, leadership team, or primary point of contact, or for any other reasonable concern. If requested, you must complete the process promptly or your remaining payments may be paused or terminated. See the [Official Rules ](../instawards/official-rules.md)for full details.
+The SDF may require you to re-complete KYC/KYB or additional due diligence at any point during your award. This can be triggered by material changes to your company’s business, leadership team, or primary point of contact, or for any other reasonable concern. If requested, you must complete the process promptly or your remaining payments may be paused or terminated. See the [Official Rules ](../instawards/official-rules.md)for full details.
 
 **Who Needs to Complete KYC?**
 

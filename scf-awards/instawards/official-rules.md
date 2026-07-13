@@ -2,9 +2,9 @@
 
 ### 1. Program Overview
 
-The Instawards Program (the “Instawards”) offers small and accelerated funding opportunities designed to support early execution by builders who are actively engaged in the Stellar ecosystem through their local Stellar Ambassador Chapter (such builders and any other program applicants, collectively the “Applicants”). The Instawards are intended to support clearly scoped, short-duration work that helps a project move meaningfully forward on Stellar. The specific rules and terms below (“Instawards Rules”) supplement the [SCF Official Rules for Submissions](../official-rules-for-submissions.md), which are incorporated herein by reference, and help define the relationship among Stellar Development Foundation (“SDF”, “we”, or “us”), Stellar Community Fund (together with its governance body, “SCF”) and the Applicants.
+The Instawards Program (the “Instawards”) offers small and accelerated funding opportunities designed to support early execution by builders who are actively engaged in the Stellar ecosystem through their local Stellar Ambassador Chapter (such builders and any other program applicants, collectively the “Applicants”). The Instawards are intended to support clearly scoped, short-duration work that helps a project move meaningfully forward on Stellar. The specific rules and terms below (“Instawards Rules”) supplement the [SCF Official Rules for Submissions](../official-rules-for-submissions.md), which are incorporated herein by reference, and help define the relationship among Stellar Development Foundation (“the SDF”, “we”, or “us”), Stellar Community Fund (together with its governance body, “SCF”) and the Applicants.
 
-Instawards don’t have a standard open application process, but opportunities to apply can be made available by the local Ambassador Chapter leads (collectively, the “Chapter Leads”). Instawards require consistent community engagement, collaboration, and demonstrated execution readiness. The following Instawards Rules set forth the general framework governing the Instawards and are subject to amendment or modification by SDF from time to time, in its sole discretion. By applying, the Applicants represent and warrant that you have read and understood the Instawards Rules, the SCF Official Rules and the SCF Handbook, have consulted any necessary independent advisors and agree to comply with all applicable terms and requirements. Applicants are encouraged to review the Instawards Rules regularly.
+Instawards don’t have a standard open application process, but opportunities to apply can be made available by the local Ambassador Chapter leads (collectively, the “Chapter Leads”). Instawards require consistent community engagement, collaboration, and demonstrated execution readiness. The following Instawards Rules set forth the general framework governing the Instawards and are subject to amendment or modification by the SDF from time to time, in its sole discretion. By applying, the Applicants represent and warrant that you have read and understood the Instawards Rules, the SCF Official Rules and the SCF Handbook, have consulted any necessary independent advisors and agree to comply with all applicable terms and requirements. Applicants are encouraged to review the Instawards Rules regularly.
 
 ### 2. Eligibility
 
@@ -25,9 +25,9 @@ All Instawards processes begin with active engagement in your local SCF Ambassad
 
 Your local chapter is the primary entry point for numerous benefits along the Instawards journey, such as: builder support, scope development, sprint planning, as well as feedback and evaluation. Applicants may engage with the Chapter Leads in connection with preparing and submitting proposals, and the Chapter Leads may refer proposals to us for consideration.
 
-The Chapter Leads are independent participants in the Stellar ecosystem who voluntarily support community initiatives and ecosystem growth. They are not agents or representatives of SDF and generally do not have authority to act on behalf of or bind SDF in any respect.
+The Chapter Leads are independent participants in the Stellar ecosystem who voluntarily support community initiatives and ecosystem growth. They are not agents or representatives of the SDF and generally do not have authority to act on behalf of or bind the SDF in any respect.
 
-While SDF may provide certain support to the Chapter Leads in furtherance of the Stellar ecosystem’s growth and, for the Instawards, may rely on the Chapter Leads for referral of projects, SDF does not control the Stellar network or the actions of individual Chapter Leads. Applicants acknowledge that any guidance, feedback, referrals, or statements provided by the Chapter Leads are non-binding and do not constitute approvals, commitments, or representations by SDF, and that only SDF may approve Instawards or make grant commitments in accordance with the terms of such programs.
+While the SDF may provide certain support to the Chapter Leads in furtherance of the Stellar ecosystem’s growth and, for the Instawards, may rely on the Chapter Leads for referral of projects, the SDF does not control the Stellar network or the actions of individual Chapter Leads. Applicants acknowledge that any guidance, feedback, referrals, or statements provided by the Chapter Leads are non-binding and do not constitute approvals, commitments, or representations by the SDF, and that only the SDF may approve Instawards or make grant commitments in accordance with the terms of such programs.
 
 #### Instawards Process
 
@@ -85,7 +85,7 @@ Active engagement goes beyond joining a Discord or attending a single event. The
 * Receiving and incorporating feedback from chapter leads or mentors
 * Helping shape or contribute to chapter programming
 
-The Chapter Leads generally have discretion to assess and determine, based on the totality of circumstances, whether an Applicant is meaningfully engaged and eligible for consideration for an Instaward. Such determinations are subject to SDF’s independent review and final approval.&#x20;
+The Chapter Leads generally have discretion to assess and determine, based on the totality of circumstances, whether an Applicant is meaningfully engaged and eligible for consideration for an Instaward. Such determinations are subject to the SDF’s independent review and final approval.&#x20;
 
 ### 5. What Makes a Strong Instaward Project Scope
 
@@ -117,25 +117,25 @@ Instawards are typically issued in predefined tiers and are always tied to a tim
 
 Applicants are encouraged to reach out to your Chapter Lead for guidance on  aligning your scope to an appropriate Instaward amount.
 
-Most proposals successfully accepted by SDF begin with an initial Instaward in the range of $1,000 – $5,000 USD, paid in XLM, depending on scope and readiness. In select cases, where a scope is especially clear, execution-ready, and with past performance that is indicative of forward momentum, a certain follow-on funding may be eligible and may increase the total funding amount up to $15,000 paid in XLM in the aggregate over time or up to two (2) follow-on disbursements.
+Most proposals successfully accepted by the SDF begin with an initial Instaward in the range of $1,000 – $5,000 USD, paid in XLM, depending on scope and readiness. In select cases, where a scope is especially clear, execution-ready, and with past performance that is indicative of forward momentum, a certain follow-on funding may be eligible and may increase the total funding amount up to $15,000 paid in XLM in the aggregate over time or up to two (2) follow-on disbursements.
 
-Submission of any interest form, project proposal, or application does not guarantee that a project or an Applicant will receive funding. All Instawards are subject to evaluation in accordance with the SCF Official Rules, the Instawards Rules, and the discretion of SDF and/or SCF. Applicants acknowledge that funding decisions are final and that SDF is not liable for any expectations of funding that are not met.
+Submission of any interest form, project proposal, or application does not guarantee that a project or an Applicant will receive funding. All Instawards are subject to evaluation in accordance with the SCF Official Rules, the Instawards Rules, and the discretion of the SDF and/or SCF. Applicants acknowledge that funding decisions are final and that the SDF is not liable for any expectations of funding that are not met.
 
 ### 7. Selection, Disbursement and KYC
 
-After submitting an Instaward application under the guidance of your respective Chapter Lead, the Applicants will be required to identify the Chapter Lead who assists with the submission. SDF will review submitted requests on a rolling basis and determine the next steps, which may include approval, feedback, or rejection, typically within 3-5 business days. All decisions are final and are made at SDF’s sole discretion.
+After submitting an Instaward application under the guidance of your respective Chapter Lead, the Applicants will be required to identify the Chapter Lead who assists with the submission. The SDF will review submitted requests on a rolling basis and determine the next steps, which may include approval, feedback, or rejection, typically within 3-5 business days. All decisions are final and are made at the SDF’s sole discretion.
 
-If an Instaward request is approved and accepted, SDF will communicate with the Applicant via their respective Chapter Lead regarding:
+If an Instaward request is approved and accepted, the SDF will communicate with the Applicant via their respective Chapter Lead regarding:
 
 * Disbursement milestones and timelines
 * Expected deliverables and outcomes
 * General expectations for engagement during the build phase
 
-Applicants are expected to collaborate with SDF to establish a mutually agreed project plan that outlines the above. Disbursement of Instawards funding will be made in accordance with the mutually agreed project plan or other similar written communications from SDF.
+Applicants are expected to collaborate with the SDF to establish a mutually agreed project plan that outlines the above. Disbursement of Instawards funding will be made in accordance with the mutually agreed project plan or other similar written communications from the SDF.
 
-Before any disbursement of Instawards funding, the Applicants must successfully complete SDF’s Know Your Customer (“KYC”) procedures. The KYC information that will be collected can be found on[ ](https://stellar.org/bd-kyc?y=live)[https://stellar.org/bd-kyc](https://stellar.org/bd-kyc).
+Before any disbursement of Instawards funding, the Applicants must successfully complete the SDF’s Know Your Customer (“KYC”) procedures. The KYC information that will be collected can be found on[ ](https://stellar.org/bd-kyc?y=live)[https://stellar.org/bd-kyc](https://stellar.org/bd-kyc).
 
-To determine the number of XLM equal to the USD value of any Instaward (including any follow-on Instaward), the USD valuation of XLM shall be calculated using the CF Stellar Lumens-Dollar Settlement Price as administered, maintained, and reported by the cryptocurrency index provider CF Benchmarks Ltd. (using the ticker “XLMUSD\_RR”) (available at [https://www.cfbenchmarks.com/indices/XLMUSD\_RR](https://www.cfbenchmarks.com/indices/XLMUSD_RR)), or, if such settlement price is unavailable or reasonably suspected by SDF to be unreliable, the settlement price as reported on a substantially similar and equally reputable cryptocurrency index provider as determined by the SDF in its discretion. The USD valuation of XLM for any particular Instaward shall be calculated using the CF Stellar Lumens-Dollar Settlement Price (or other agreed upon settlement price) reported on the day such Instaward is scheduled to be paid. The Applicants acknowledge and understand that XLM is a highly risky and volatile asset, and that SDF does not provide any representations, warranties, or guarantees of its value.
+To determine the number of XLM equal to the USD value of any Instaward (including any follow-on Instaward), the USD valuation of XLM shall be calculated using the CF Stellar Lumens-Dollar Settlement Price as administered, maintained, and reported by the cryptocurrency index provider CF Benchmarks Ltd. (using the ticker “XLMUSD\_RR”) (available at [https://www.cfbenchmarks.com/indices/XLMUSD\_RR](https://www.cfbenchmarks.com/indices/XLMUSD_RR)), or, if such settlement price is unavailable or reasonably suspected by the SDF to be unreliable, the settlement price as reported on a substantially similar and equally reputable cryptocurrency index provider as determined by the SDF in its discretion. The USD valuation of XLM for any particular Instaward shall be calculated using the CF Stellar Lumens-Dollar Settlement Price (or other agreed upon settlement price) reported on the day such Instaward is scheduled to be paid. The Applicants acknowledge and understand that XLM is a highly risky and volatile asset, and that the SDF does not provide any representations, warranties, or guarantees of its value.
 
 The Applicants should review the [SCF Official Rules for Submissions](../official-rules-for-submissions.md) for any additional requirements regarding the use of XLM, data privacy, publicity, and other applicable disclaimers or limitations of liability.
 
@@ -146,7 +146,7 @@ Applicants may be eligible for multiple Instawards, up to a total cap of $15,000
 * Each award funds a distinct, well-scoped sprint
 * Previous sprints were completed successfully, as reviewed and confirmed by your Chapter Lead
 * Feedback from prior awards has been incorporated, to the reasonable satisfaction of your Chapter Lead
-* The project continues to demonstrate momentum on Stellar, as determined by SDF
+* The project continues to demonstrate momentum on Stellar, as determined by the SDF
 
 Additional awards are NOT automatic and depend on performance, engagement, and available program capacity.
 

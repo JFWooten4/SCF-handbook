@@ -216,7 +216,7 @@ _Added: Q2 2026_
 
 Design and deliver a public, hosted contract source verification service for Soroban smart contracts. The service consumes the [SEP-58](https://github.com/stellar/stellar-protocol/pull/1933) metadata vocabulary (bldimg, bldopt, source\_repo, source\_rev, tarball\_url, tarball\_sha256), rebuilds submitted source in a defined environment, compares the resulting Wasm to the deployed Wasm, and exposes the result to downstream consumers (explorers, wallets, the CLI). The service must cover both public source (git repo plus commit) and private source (content-addressed via `tarball_sha256` alone, suitable for auditor-mediated rebuilds).
 
-This service sits downstream of an already-shipping foundation. SDF is publishing the trusted stellar-cli-docker image plus "how to build" and "how to verify" guides on a shorter timeline. Asset issuers, contract developers, and planned verifiers (OrbitLens, Aha Labs, 57B) use those directly in the near term. The hosted service this RFP funds aggregates verifications across the ecosystem and serves results to downstream tools.
+This service sits downstream of an already-shipping foundation. The SDF is publishing the trusted stellar-cli-docker image plus "how to build" and "how to verify" guides on a shorter timeline. Asset issuers, contract developers, and planned verifiers (OrbitLens, Aha Labs, 57B) use those directly in the near term. The hosted service this RFP funds aggregates verifications across the ecosystem and serves results to downstream tools.
 
 Deliverables span:
 
@@ -232,10 +232,10 @@ Deliverables span:
 
 * **Display-layer policy decisions by individual verifiers** (e.g., whether to surface verifications for contracts without publicly retrievable source). The service may expose auditor signals or off-chain attestations if available, but is not required to define their semantics.
 * **Authoring SEP-58, SEP-55.** Coordination is expected; authorship is not.
-* **Producing the official trusted stellar-cli Docker images.** SDF maintains these via stellar-cli-docker. Vendors consume the SDF-published images.
-* **Updates to SDF-owned tooling** (stellar-cli, Stellar Lab) beyond exposing the APIs those tools consume. SDF builds those integrations in-house.
+* **Producing the official trusted stellar-cli Docker images.** The SDF maintains these via stellar-cli-docker. Vendors consume the SDF-published images.
+* **Updates to SDF-owned tooling** (stellar-cli, Stellar Lab) beyond exposing the APIs those tools consume. The SDF builds those integrations in-house.
 * **Explorer UI work on any specific third-party explorer** (Stellar Expert, StellarChain), though the service must expose what they need.
-* **Fully deterministic Rust compilation as a research effort.** Use the best available reproducibility today, anchored on the SDF-allowlisted trusted images.
+* **Fully deterministic Rust compilation as a research effort.** Use the best available reproducibility today, anchored on SDF-allowlisted trusted images.
 
 #### 2. Background & Context
 
@@ -250,10 +250,10 @@ SEP-58 is mode-agnostic about source retrieval. Public repos use source\_repo + 
 **Ecosystem context:**
 
 * **Complementary CLI work:** stellar-cli [PR #2585](https://github.com/stellar/stellar-cli/pull/2585) adds `stellar contract build --verifiable`, which runs the build inside a digest-pinned Docker container and stamps SEP-58 metadata into the Wasm. [PR #2586](https://github.com/stellar/stellar-cli/pull/2586) adds `stellar contract verify`, which reads the metadata, re-runs the recorded build, and byte-compares the result. The CLI verifies locally with no service dependency. This RFP funds the shared layer aggregating results across verifiers.
-* **Trusted build images:** SDF maintains stellar-cli-docker, which publishes attested Docker images for use as bldimg values. The publish pipeline ([PR #3](https://github.com/stellar/stellar-cli-docker/pull/3)) targets a first published image in late May 2026. It covers public Dockerfiles, SLSA build provenance, SBOMs, pinned base images, and a defined release cadence.
+* **Trusted build images:** The SDF maintains stellar-cli-docker, which publishes attested Docker images for use as bldimg values. The publish pipeline ([PR #3](https://github.com/stellar/stellar-cli-docker/pull/3)) targets a first published image in late May 2026. It covers public Dockerfiles, SLSA build provenance, SBOMs, pinned base images, and a defined release cadence.
 * **Multi-dimensional trust:** reproducibility alone is not faithfulness to source. A hostile image can deterministically rewrite bytes and still pass byte-comparison. The service should treat image trust as a signal (arbitrary deployer image, publicly auditable image, SDF-maintained trusted image), not a binary.
 * **Existing in-house prototype:** [stellar-experimental/contract-verifications](https://github.com/stellar-experimental/contract-verifications) is a starting point but is not production-ready.
-* **Internal boundary:** SDF builds the CLI, trusted images, and Stellar Lab integrations. The hosted public verification service is a fit for external funding.
+* **Internal boundary:** The SDF builds the CLI, trusted images, and Stellar Lab integrations. The hosted public verification service is a fit for external funding.
 
 Other ecosystems have solved this via [Sourcify](https://sourcify.dev) (EVM) and [solana-verify](https://solana.com/docs/programs/verified-builds). Stellar needs an equivalent, either adapted from existing tooling or purpose-built for Soroban. Respondents may propose either approach.
 
@@ -279,7 +279,7 @@ Conform to the forthcoming verifier-API SEP (currently unauthored, expected to f
 
 * **Explain your approach** in the [SEP-58 discussion thread](https://github.com/orgs/stellar/discussions/1923) before or during proposal submission.
 * **Security**: tarball storage must be tamper-evident; rebuild environment isolated from host; submitted code must not exfiltrate secrets or affect other submissions; write endpoints must have abuse and DoS protections.
-* **Audit**: third-party security audit required before production launch. Scope: rebuild environment, tarball integrity, API authentication, image allowlist policy. Auditor coordinated by SDF via the audit bank.
+* **Audit**: third-party security audit required before production launch. Scope: rebuild environment, tarball integrity, API authentication, image allowlist policy. Auditor coordinated by the SDF via the audit bank.
 * **UX**: a contract developer should verify a deployed contract in under 15 minutes from reading the docs to seeing the verification appear.
 * **Decentralization of verification**: architecture must allow multiple independent verifier instances to publish results. Proposals describe how disagreement surfaces and how consumers pick a trusted set.
 * **Performance:** verification requests complete or return queued status within 5 minutes for standard contract sizes.
@@ -289,9 +289,9 @@ Conform to the forthcoming verifier-API SEP (currently unauthored, expected to f
 * **Compliance:** operable as a public good without KYC or gated access. No user data collection beyond what's necessary for abuse prevention.
 * **Openness:** codebase open-source and self-hostable. Production deployment should allow community operation over time.<br>
 
-**Interfaces SDF will provide before contract execution:**
+**Interfaces the SDF will provide before contract execution:**
 
-* The CLI to Service interaction contract (being resolved internally). Vendors should support either a service-mediated submission flow or a decentralized on-chain result discovery model; SDF will name the shape before the design phase.
+* The CLI to Service interaction contract (being resolved internally). Vendors should support either a service-mediated submission flow or a decentralized on-chain result discovery model; the SDF will name the shape before the design phase.
 * The stellar-cli-docker image allowlist endpoint and trust criteria for adding image sources.
 * Any SEP-58 amendments landing before the vendor's design phase (e.g., the home\_domain field amendment under discussion).
 
