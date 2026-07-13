@@ -55,7 +55,7 @@ SBC was no longer an experiment but a thriving program working to grow the Stell
 
 ### **SBC #4 + #5 - The age of GalacticTalk**
 
-[GalacticTalk](https://galactictalk.org/d/2-galactic-talk-the-new-stellar-forum) started as a forum to organize discussions better than the Stellar Slack channel (where the community gathered before Keybase and Discord), and was an immediate hit with the community: Jed himself even used it to [announce the first SBC](https://galactictalk.org/d/5-2b-lumens-will-be-awarded-to-projects-built-on-stellar).
+[GalacticTalk](https://galactictalk.org/d/2-galactic-talk-the-new-stellar-forum) started as a forum to organize discussions better than the Stellar Slack channel (where the community gathered before Keybase and Discord) and was an immediate hit with the community; Jed himself even used it to [announce the first SBC](https://galactictalk.org/d/5-2b-lumens-will-be-awarded-to-projects-built-on-stellar).
 
 <figure><img src="https://lh4.googleusercontent.com/YWw0ETAL3fT_1TfealX6zDzJvF8ZK1MABrzbdrGylb78O2BuKX6LC7GTi9bRn_2Rc96KBkiQtzd6vpACchXmjjLHe4FgbGb7HzB1LpoFCW0LU523lb5xJHpKt-nyY3BCSD_i14yDsm-OdMoH5aUrwWpXNrFWilLjwR0_WxOJozF6BY0h6PbAEKho_w" alt=""><figcaption><p>Screenshot from <a href="https://galactictalk.org/t/april-2017?sort=top">galactictalk.org</a></p></figcaption></figure>
 
