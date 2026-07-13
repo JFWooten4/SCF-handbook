@@ -166,7 +166,7 @@ For any given user since SCF #30, we go over all votes of given user, since roun
 
 **1.2.4.1 Normalized PageRank**
 
-Min-max normalized PageRank algorithm is used to analyze the trust graph formed by community members. Initially each user gets assigned a trust value of 1n (n being number of users)
+Min-max normalized PageRank algorithm is used to analyze the trust graph formed by community members. Initially each user gets assigned a trust value of 1/n (n being number of users)
 
 Then we iterate over all users a 1000 times using the formula below, to get an accurate page rank value.
 
@@ -176,7 +176,7 @@ $$
 
 <sup><sub>PR(A) - page rank value for user A, d - damping factor, in our case 0.85 (typical, commonly used value), n - number of users, BM(A) - some other user B that belongs to the set of all users trusting user A, PR(B) - page rank value for user B, L(B) - number of users trusted by user B<sub></sup>
 
-So for user A, we take 1-dn, add our damping factor multiplied by the sum of all trust scores of users trusting our user A, divided by how many users they trust. This means that trust from someone trusting less users is worth more.
+So for user A, we take (1-d)/n, add our damping factor multiplied by the sum of all trust scores of users trusting our user A, divided by how many users they trust. This means that trust from someone trusting less users is worth more.
 
 After that we perform a min-max normalization to ensure that scores of all users are distributed between 0.0 and 1.0.
 
