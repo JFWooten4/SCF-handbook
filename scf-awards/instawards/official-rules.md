@@ -117,7 +117,7 @@ Instawards are typically issued in predefined tiers and are always tied to a tim
 
 Applicants are encouraged to reach out to your Chapter Lead for guidance on  aligning your scope to an appropriate Instaward amount.
 
-Most proposals successfully accepted by SDF begin with an initial Instaward in the range of $1,000 – $5,000 USD, paid in XLM, depending on scope and readiness. In select cases, where a scope is especially clear, execution-ready, and with past performance that is indicative of forward momentum, a certain follow-on funding may be eligible and may increase the total funding amount up to $15,000 paid in XLM in the aggregate over time or up to two (2) follow-on disbursements.
+Most proposals successfully accepted by SDF begin with an initial Instaward in the range of USD $1,000–$5,000 worth of XLM, depending on scope and readiness. In select cases, where a scope is especially clear, execution-ready, and with past performance that is indicative of forward momentum, a certain follow-on funding may be eligible and may increase the total funding amount up to USD $15,000 worth of XLM in the aggregate over time or up to two (2) follow-on disbursements.
 
 Submission of any interest form, project proposal, or application does not guarantee that a project or an Applicant will receive funding. All Instawards are subject to evaluation in accordance with the SCF Official Rules, the Instawards Rules, and the discretion of SDF and/or SCF. Applicants acknowledge that funding decisions are final and that SDF is not liable for any expectations of funding that are not met.
 
@@ -141,7 +141,7 @@ The Applicants should review the [SCF Official Rules for Submissions](../officia
 
 ### 8. Eligibility for Additional Instawards
 
-Applicants may be eligible for multiple Instawards, up to a total cap of $15,000 paid in XLM, provided that:
+Applicants may be eligible for multiple Instawards, up to a total cap of USD $15,000 worth of XLM, provided that:
 
 * Each award funds a distinct, well-scoped sprint
 * Previous sprints were completed successfully, as reviewed and confirmed by your Chapter Lead

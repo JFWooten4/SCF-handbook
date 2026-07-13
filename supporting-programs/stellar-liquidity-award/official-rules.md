@@ -10,8 +10,8 @@ Financial protocols who have completed an audit and have a live implementation o
 
 | Award Type                   | Amount (Range)               |
 | ---------------------------- | ---------------------------- |
-| Base Liquidity Award         | $50K in XLM\*                |
-| Supplemental Liquidity Award | An additional $50k in XLM\*  |
+| Base Liquidity Award         | USD $50K worth of XLM\*               |
+| Supplemental Liquidity Award | An additional USD $50k worth of XLM\* |
 
 #### Program Phases&#x20;
 

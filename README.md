@@ -94,7 +94,7 @@ SCF 7.0 is the Stellar Development Foundation’s redesigned awards program for 
 * Awarded budget is distributed in 4 payments:
   * Tranche #0: 10% of budget → Tranche #1: 20% of budget → Tranche #2: 30% of budget → Tranche #3: 40% of budget.
 * Implementation of a robust referral program to sharpen selection processes and increase application pool quality. While not mandatory to receive an award, SCF relies heavily on referral signals from a diverse set of Stellar ecosystem stakeholders.
-* After successfully completing all tranches of a Build Award, projects may submit for additional Build Awards up to a total of $150k worth of XLM in funding. Projects that exceed the $150k cap may be eligible for additional funding on a case-by-case basis.
+* After successfully completing all tranches of a Build Award, projects may submit for additional Build Awards up to a total of USD $150k worth of XLM in funding. Projects that exceed the $150k cap may be eligible for additional funding on a case-by-case basis.
 * Additional support provided beyond funding: In addition to the existing audit bank, awarded Build teams may receive a UX audit and rigorous user testing as part of the award process.
 
 ***
@@ -113,9 +113,9 @@ You may be eligible to apply for an additional SCF Build Award if all of the fol
 * Teams should share evidence of significant traction from prior funding, ideally onchain metrics.
 * Products should be live and testable at the time of submission for a subsequent Build Award.
 
-Any previously funded project satisfying all conditions above may submit for additional award(s), up to a total maximum of $150,000 in XLM across all awards accumulated over its lifetime.
+Any previously funded project satisfying all conditions above may submit for additional award(s), up to a total maximum of USD $150,000 worth of XLM across all awards accumulated over its lifetime.
 
-Projects that have previously already received $150,000 may be eligible for additional awards only on a case-by-case basis, subject to a lifetime accumulated funding cap of $300,000 in XLM. If you fall into this category, reach out to communityfund@stellar.org when you submit for the additional award.
+Projects that have previously already received $150,000 may be eligible for additional awards only on a case-by-case basis, subject to a lifetime accumulated funding cap of USD $300,000 worth of XLM. If you fall into this category, reach out to communityfund@stellar.org when you submit for the additional award.
 
 Any such follow-on awards may also require additional legal and business due diligence.
 

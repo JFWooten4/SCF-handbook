@@ -99,9 +99,9 @@ Non-SDF delegates are compensated based on specific tasks completed each quarter
 
 Non-SDF Delegates receive:
 
-* $200 worth of XLM\* for contributing to quarterly category planning (goal-setting and wishlist updates).
-* $20 worth of XLM\* for each SCF Build submission they fully review during a round + a bonus for Open Track delegates who vote on time.
-*   $20 worth of XLM\* for each subsequent tranche review completed.
+* USD $200 worth of XLM\* for contributing to quarterly category planning (goal-setting and wishlist updates).
+* USD $20 worth of XLM\* for each SCF Build submission they fully review during a round + a bonus for Open Track delegates who vote on time.
+*   USD $20 worth of XLM\* for each subsequent tranche review completed.
 
     \
     Payments are issued regularly during the quarter for completed reviews.

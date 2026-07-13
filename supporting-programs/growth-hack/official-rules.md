@@ -34,15 +34,15 @@ Companies should demonstrate a good fit and readiness for the Growth Hack Progra
 
 ## Award Structure
 
-Each selected project will be awarded USD $20K worth of XLM\* Upfront campaign awards to build a user acquisition strategy. The top 5 companies based on the selection metrics will be further awarded performance-based awards of up to $200K in XLM\*.
+Each selected project will be awarded USD $20K worth of XLM\* Upfront campaign awards to build a user acquisition strategy. The top 5 companies based on the selection metrics will be further awarded performance-based awards of up to USD $200K worth of XLM\*.
 
-<table data-full-width="true"><thead><tr><th>Awards</th><th>Amount</th></tr></thead><tbody><tr><td>Upfront campaign awards</td><td>$20K in XLM*</td></tr><tr><td>Performance-based awards</td><td>$50K or $100K or $200K in XLM*</td></tr><tr><td>Total</td><td>$70K - $220K in XLM*</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Awards</th><th>Amount (USD value, paid in XLM)</th></tr></thead><tbody><tr><td>Upfront campaign awards</td><td>$20K*</td></tr><tr><td>Performance-based awards</td><td>$50K or $100K or $200K*</td></tr><tr><td>Total</td><td>$70K - $220K*</td></tr></tbody></table>
 
 ### Performance-based Awards&#x20;
 
 The Performance-based awards are dynamic, depending on the Total Weekly Active Accounts of all companies measured at campaign start and end. The top 5 companies based on the three selection metrics will share the awards.
 
-<table data-full-width="true"><thead><tr><th>Award Size Level</th><th>Total WAA for all participating companies</th><th>Total Awards</th></tr></thead><tbody><tr><td>Level 1 </td><td>&#x3C; 1.5X Baseline* </td><td>$50,000 in XLM**</td></tr><tr><td>Level 2</td><td><p>> 1.5X Baseline</p><p>&#x3C; 3X Baseline</p></td><td>$100,000 in XLM**</td></tr><tr><td>Level 3 </td><td>> 3X Baseline</td><td>$200,000 in XLM**</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Award Size Level</th><th>Total WAA for all participating companies</th><th>Total Awards (USD value, paid in XLM)</th></tr></thead><tbody><tr><td>Level 1 </td><td>&#x3C; 1.5X Baseline* </td><td>$50,000**</td></tr><tr><td>Level 2</td><td><p>> 1.5X Baseline</p><p>&#x3C; 3X Baseline</p></td><td>$100,000**</td></tr><tr><td>Level 3 </td><td>> 3X Baseline</td><td>$200,000**</td></tr></tbody></table>
 
 ### Top 5 Projects Selection
 
@@ -66,15 +66,15 @@ $$
 
 ### Example of Performance-Based Grant Calculation
 
-To help understand how the calculation outlined above works, please see an example below where the Total WAA for all Participating Projects reaches a Level 2 Pool Size, which increases the Grant Pool to $100,000 in XLM. In this example, the Top Projects will qualify for the following:
+To help understand how the calculation outlined above works, please see an example below where the Total WAA for all Participating Projects reaches a Level 2 Pool Size, which increases the Grant Pool to USD $100,000 worth of XLM. In this example, the Top Projects will qualify for the following:
 
-<table data-full-width="true"><thead><tr><th>Project</th><th width="222.6875">WAA Increase (X)</th><th width="186.62890625">WTV Increase (Y)</th><th width="208.1796875">WTVL Increase (Z)</th><th width="429.53125">Individual Award =  (X)/∑(X) +(Y)/∑(Y)]/2 * Z (in XLM)</th><th>Rank</th></tr></thead><tbody><tr><td>Project A</td><td>1,500</td><td>$35,000</td><td>$7,000</td><td>(0.15+0.35+0.7)/3*$100K = $40K</td><td>1</td></tr><tr><td>Project B</td><td>5,000</td><td>$40,000</td><td>0</td><td>(0.5+0.4+0)/3*$100K = $30K</td><td>2</td></tr><tr><td>Project C</td><td>1,000</td><td>$5,000</td><td>0</td><td>(0.1+0.05+0)/3*$100K = $5K</td><td>5</td></tr><tr><td>Project D</td><td>2,000</td><td>$5,000</td><td>0</td><td>(0.2+0.05+0)/3*$100K = $8.33K</td><td>4</td></tr><tr><td>Project E</td><td>500</td><td>$15,000</td><td>$3,000</td><td>(0.05+0.15+0.3)/3*$100K = $16.67K</td><td>3</td></tr><tr><td>Total Increase</td><td><p>10,000</p><p>∑(X)</p></td><td><p>$100,000</p><p>∑(Y)</p></td><td><p>$10,000</p><p>∑(Y)</p></td><td>Total $100K<br>(A=Level 2 Grant Pool)</td><td>-</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Project</th><th width="222.6875">WAA Increase (X)</th><th width="186.62890625">WTV Increase (Y)</th><th width="208.1796875">WTVL Increase (Z)</th><th width="429.53125">Individual Award =  (X)/∑(X) +(Y)/∑(Y)]/2 * Z (USD value, paid in XLM)</th><th>Rank</th></tr></thead><tbody><tr><td>Project A</td><td>1,500</td><td>$35,000</td><td>$7,000</td><td>(0.15+0.35+0.7)/3*$100K = $40K</td><td>1</td></tr><tr><td>Project B</td><td>5,000</td><td>$40,000</td><td>0</td><td>(0.5+0.4+0)/3*$100K = $30K</td><td>2</td></tr><tr><td>Project C</td><td>1,000</td><td>$5,000</td><td>0</td><td>(0.1+0.05+0)/3*$100K = $5K</td><td>5</td></tr><tr><td>Project D</td><td>2,000</td><td>$5,000</td><td>0</td><td>(0.2+0.05+0)/3*$100K = $8.33K</td><td>4</td></tr><tr><td>Project E</td><td>500</td><td>$15,000</td><td>$3,000</td><td>(0.05+0.15+0.3)/3*$100K = $16.67K</td><td>3</td></tr><tr><td>Total Increase</td><td><p>10,000</p><p>∑(X)</p></td><td><p>$100,000</p><p>∑(Y)</p></td><td><p>$10,000</p><p>∑(Y)</p></td><td>Total $100K<br>(A=Level 2 Grant Pool)</td><td>-</td></tr></tbody></table>
 
 ### Award Distribution
 
 For the top 5 companies, the award will be distributed in the following three payment tranches. The companies ranked 6 to 10 will only be awarded the upfront campaign awards.
 
-<table data-full-width="true"><thead><tr><th>Payment Tranche</th><th width="211.44140625">Purpose</th><th>Total (in XLM)</th><th width="87.33203125"># of companies</th><th>Amount per Project</th></tr></thead><tbody><tr><td>1. Upfront campaign awards</td><td>Prepare the user acquisition campaign</td><td>$200K</td><td>10</td><td>$20K in XLM</td></tr><tr><td>2. Performance-based awards</td><td>Award the top 5 companies based on the 3 selection metrics</td><td>$100K max*</td><td>5</td><td><p>1st half  of </p><p>Individual Award</p></td></tr><tr><td>3. Performance-based awards</td><td>Award user retention >=30%</td><td>$100K max*</td><td>&#x3C;=5</td><td><p>2nd half of </p><p>Individual Award </p></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Payment Tranche</th><th width="211.44140625">Purpose</th><th>Total (USD value, paid in XLM)</th><th width="87.33203125"># of companies</th><th>Amount per Project</th></tr></thead><tbody><tr><td>1. Upfront campaign awards</td><td>Prepare the user acquisition campaign</td><td>$200K</td><td>10</td><td>USD $20K worth of XLM</td></tr><tr><td>2. Performance-based awards</td><td>Award the top 5 companies based on the 3 selection metrics</td><td>$100K max*</td><td>5</td><td><p>1st half  of </p><p>Individual Award</p></td></tr><tr><td>3. Performance-based awards</td><td>Award user retention >=30%</td><td>$100K max*</td><td>&#x3C;=5</td><td><p>2nd half of </p><p>Individual Award </p></td></tr></tbody></table>
 
 _\*The dynamic awards amount is depending on the campaign performance._&#x20;
 

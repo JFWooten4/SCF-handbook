@@ -115,7 +115,7 @@ General application criteria can be found [here](../scf-awards/build-award/submi
 
 <summary>How much funding can I apply for?</summary>
 
-* The [SCF Build Award](../scf-awards/build-award/) is an award (paid in four installments) of up to $150,000 worth of XLM\*.
+* The [SCF Build Award](../scf-awards/build-award/) is an award (paid in four installments) of up to USD $150,000 worth of XLM\*.
 
 </details>
 
@@ -172,9 +172,9 @@ The different SCF programs have different requirements for funding, so be sure y
 
 <summary>What if my project was funded under the previous SCF structure?</summary>
 
-Yes, any previously funded project that have completed all deliverables of a previous Build Award may submit for additional award(s), up to a total maximum of $150,000 in XLM across all awards accumulated over its lifetime.
+Yes, any previously funded project that have completed all deliverables of a previous Build Award may submit for additional award(s), up to a total maximum of USD $150,000 worth of XLM across all awards accumulated over its lifetime.
 
-Projects that have previously already received $150,000 may be eligible for additional awards only on a case-by-case basis, subject to a lifetime accumulated funding cap of $300,000 in XLM. If you fall into this category, reach out to communityfund@stellar.org when you submit for the additional award.
+Projects that have previously already received $150,000 may be eligible for additional awards only on a case-by-case basis, subject to a lifetime accumulated funding cap of USD $300,000 worth of XLM. If you fall into this category, reach out to communityfund@stellar.org when you submit for the additional award.
 
 Any such follow-on awards may also require additional legal and business due diligence.<br>
 

@@ -23,7 +23,7 @@ Throughout the years, SCF has been iterated on many times based on community fee
 * [**SCF 1.0 — Dawn of Community-Powered Funding**](history-of-scf.md#scf-1.0-dawn-of-community-powered-funding) (_SCF #1–5, 2019-2020)_\
   SCF replaced the centralized Stellar Build Challenge, introducing community voting. Each year, 12M XLM was distributed across quarterly rounds, empowering all community members to nominate and vote on projects.
 * [**SCF 2.0 — Demonstrating Real Ecosystem Growth**](history-of-scf.md#scf-2.0-demonstrating-real-ecosystem-growth) (_SCF #6–7, 2020-2021)_\
-  Then, funding was segmented into a ‘Lab Fund’ for smaller, experimental projects and a ‘Seed Fund’ for scaling companies. Award allocation was streamlined through a mix of community and panel-driven selections. SCF #7’s awards ranged from $200–350K in XLM\* to develop important projects, demonstrating SCF’s capacity to effectively boost large-scale ecosystem growth.
+  Then, funding was segmented into a ‘Lab Fund’ for smaller, experimental projects and a ‘Seed Fund’ for scaling companies. Award allocation was streamlined through a mix of community and panel-driven selections. SCF #7’s awards ranged from USD $200–350K worth of XLM\* to develop important projects, demonstrating SCF’s capacity to effectively boost large-scale ecosystem growth.
 * [**SCF 3.0 — Streamlined Entrepreneurial Support**](history-of-scf.md#scf-3.0-discord-budget-requests-and-entrepreneurial-focus) (_SCF #8–11, 2021-2022)_\
   Instead of voting on the amount a project would receive, projects specified their budget request in USD (the final payout was still in XLM\*), and needed to pass a selection panel before moving onto community vote. Voting shifted to a straightforward yes/abstain system, reducing vote manipulation. Noteworthy initiatives from this phase included the introduction of round-based Project Pitches as well as dedicated startup-focused bootcamps focusing initially on Africa, then globally.
 * [**SCF 4.0 — Bigger, Better, Faster, Soroban**](history-of-scf.md#scf-4.0-bigger-better-faster-soroban) (_SCF #12–19, 2023)_\
@@ -183,7 +183,7 @@ Even though we learned a ton in the Lab Fund, the Seed Fund (SCF#7) was a real g
 
 After two months of deliberation, a [panel of 20 judges narrowed the field to eight finalists](https://medium.com/stellar-community/announcing-stellar-community-seed-fund-1-finalists-3e9e95d41793?source=collection_detail----89c348dcf743-----22-----------------------) (not the 3-5 originally planned due to a four-way tie for fifth place). Learning from the Lab Fund, the team made necessary, although unannounced, changes to open up voting to only a select group of SDF and community members (about 50 handpicked at the time). This abrupt decision-making received some pushback but ultimately resulted in a better and fairer approach than all previous SCF rounds.
 
-Each of the eight finalists walked away with $200K-350K worth of XLM, amounts SCF had never given away before, setting the tone for yet another iteration of community funding.
+Each of the eight finalists walked away with USD $200K-350K worth of XLM, amounts SCF had never given away before, setting the tone for yet another iteration of community funding.
 
 ## **SCF 3.0 - Discord, budget requests, and entrepreneurial focus**
 
@@ -234,7 +234,7 @@ Significant changes had been made to make this major ecosystem growth possible:
 
 * **Increased Round Frequency:** SCF moved from bi-annual to monthly, effectively speeding up round frequency by 6 times.&#x20;
 * **Removing Upper Cap on Funding Pool:** The upper limit each round was lifted to remove the competition aspect from SCF and allow for more flexibility for varying inbound per round.&#x20;
-* **Proof of Intent:** Projects could request up to $150K in XLM\* to fund development for \~3 months, and any eligible project was accepted by a panel consisting of both SDF and community members to receive 10% of their requested budget (also referred to as Proof of Intent). Upon finishing those deliverables, the project was to go through Community Vote for the remaining 90%.
+* **Proof of Intent:** Projects could request up to USD $150K worth of XLM\* to fund development for \~3 months, and any eligible project was accepted by a panel consisting of both SDF and community members to receive 10% of their requested budget (also referred to as Proof of Intent). Upon finishing those deliverables, the project was to go through Community Vote for the remaining 90%.
 * **Community Vote became non-determinitive, but onchain:** The simple voting system used in prior rounds didn't always prove effective in determining which projects should receive funding. This was a large risk perceived in order to grow Soroban's ecossytem. To reduce this risk, Community Vote lost it's determinitive power to solely signal award allocation. On-chain voting allowed the community to have transparency in the voting process, while keeping the individual voters’ identity hidden.
 * **Changing Platform**: Moving award management to a dedicated platform (Submittable) to streamline operations.&#x20;
 * **Move to the Stellar Developers Discord**: To provide improved developer support to projects submitting, the SCF Discord moved over as the 'Community Fund' category to the [Stellar Developers Discord](https://discord.gg/stellardev).&#x20;
@@ -290,7 +290,7 @@ Spanning two time zones, the bootcamp also boasted a remarkable lineup of 30+ me
 
 _**SCF #20 - SCF #29**_
 
-Two types of awards were introduced to reduce issues experienced with the earlier Proof of Intent model: a one-time Activation Award up to $50K decided by the selection panel for first-timers to build an initial MVP in 1-1.5 months, and once the activation deliverables were deemed complete, the project can request a Community Award up to $100K in XLM to further build out their project in the following 2-3 months.
+Two types of awards were introduced to reduce issues experienced with the earlier Proof of Intent model: a one-time Activation Award up to $50K decided by the selection panel for first-timers to build an initial MVP in 1-1.5 months, and once the activation deliverables were deemed complete, the project can request a Community Award up to USD $100K worth of XLM to further build out their project in the following 2-3 months.
 
 SCF started to adopt Neural Quorum Governance to support the signaling award allocation, initiating a move towards more inclusive, scalable, and reputation-based governance within the Stellar Community Fund. \
 \

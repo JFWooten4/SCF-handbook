@@ -10,7 +10,7 @@ SCF Build Awards are milestone-based. Funding is split into four payments tied t
 
 ### 📌 Key Requirements
 
-* Awards are capped at $150,000 worth of XLM.
+* Awards are capped at USD $150,000 worth of XLM.
 * 📆 Project timeline should not exceed 6 months.
 * Budget must be tied to three tranches—we recommend using the following structure, but feel free to adjust as makes the most sense for your project:
   * **Tranche #1 - MVP**
