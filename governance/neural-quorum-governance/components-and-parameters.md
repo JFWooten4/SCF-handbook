@@ -99,9 +99,9 @@ In the graph below, we chose arbitrary values (a = 0, k = 1, c = 1, q = 1, b = 1
 ![](<../../.gitbook/assets/unknown (1).png>)
 
 {% hint style="info" %}
-Example: User A voted in round 30, from the graph above we can see weight for this round is 1.0. In this round user A submitted 68 Yes/No votes, and 32 Delegate votes, so 68%. The final weight of round 30 for this user will be 1.0 x 68% = 0.68.
+Example: User A voted in round 30; from the graph above we can see weight for this round is 1.0. In this round user A submitted 68 Yes/No votes, and 32 Delegate votes, so 68%. The final weight of round 30 for this user will be 1.0 x 68% = 0.68.
 
-User B voted in round 30, from the graph above we can see weight for this round is 1.0. In this round user B submitted 0 Yes/No votes, and 100 Delegate votes, so 0%. The final weight of round 30 for this user will be 1.0 x 30% = 0.3.
+User B voted in round 30; from the graph above we can see weight for this round is 1.0. In this round user B submitted 0 Yes/No votes, and 100 Delegate votes, so 0%. The final weight of round 30 for this user will be 1.0 x 30% = 0.3.
 {% endhint %}
 {% endstep %}
 
@@ -182,7 +182,7 @@ After that we perform a min-max normalization to ensure that scores of all users
 
 **1.2.4.2 Highly Trusted Bonus**
 
-After calculating PageRank scores, we take users with top 10% scores, those are considered highly trusted individuals. Then for each highly trusted user, we take the list of users they trust, and give everyone an additional bonus of 15% of their own score. If someone is trusted by multiple highly trusted users, he will get this bonus multiple times.
+After calculating PageRank scores, we take users with top 10% scores; those are considered highly trusted individuals. Then for each highly trusted user, we take the list of users they trust, and give everyone an additional bonus of 15% of their own score. If someone is trusted by multiple highly trusted users, he will get this bonus multiple times.
 
 Note: Keep in mind that even though we perform normalization after the PageRank, adding this HTB can result in the trust score of some users being higher than 1.0. This is an important change from the original implementation of the system, which was designed in a way so all 3 neurons should output values in range 0.0 - 1.0. We believe this isn't a flaw, because it makes the trust have a bigger impact on the overall NQG score, which is desired.
 
@@ -234,7 +234,7 @@ After all 3 neurons are calculated, the results are aggregated together to give 
 | Layer 1 | <p>Trust Graph</p><p>Assigned Reputation</p><p>Vote Quality</p> | Sum             | Adds results of all neurons       |
 | Layer 2 | Prior Voting History                                            | Product         | Multiplies results of all neurons |
 
-<sub>_Note: Layer 2 is designed to return the product (multiply all values) of the neurons, so if there were 2 neurons, Layer 2 would return neuron1 x neuron2 but currently it has only one neuron, hence Layer 2 output is equal to this single neuron output._</sub>
+<sub>_Note: Layer 2 is designed to return the product (multiply all values) of the neurons, so if there were 2 neurons, Layer 2 would return neuron1 x neuron2 but currently it has only one neuron; hence, Layer 2 output is equal to this single neuron output._</sub>
 
 Then results of both Layers are summed together to give final voting power.
 
