@@ -30,7 +30,7 @@ Once you’ve participated in an SCF Build Award round for Community Vote, you c
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Relative Voting Power Eligibility Requirement | Top \~33.3%                                                                                                                       | Top \~16.7%                                                                                                                                                                                              |
 | Approving Requirements                        | Min. 5 Navigators and/or Pilots, no downvotes                                                                                     | Min. 5 Pilots, no downvotes                                                                                                                                                                              |
-| Opportunities                                 | Vote actively for projects to allocate SCF Build Awards (Open Track) and be considered for invitation to virtual and IRL events. | Everything in Navigator, plus the ability to become a Quarterly Delegate; be included in Pilot-only conversations on key strategy topics; and propose, contribute, and vote for governance proposals. |
+| Opportunities                                 | Vote actively to allocate SCF Build Awards to projects (Open Track) and be considered for invitations to virtual and IRL events. | Everything in Navigator, plus the ability to become a Quarterly Delegate; participate in Pilot-only conversations on key strategy topics; and propose, contribute to, and vote on governance proposals. |
 
 #### Nomination Process
 
@@ -45,7 +45,7 @@ Navigator and Pilot nominations are reviewed during scheduled approval windows p
 
 If the nomination was not approved, the community member can nominate themselves again prior to the following SCF Build Award round.&#x20;
 
-Note: Nominated and selected quarterly delegates (current or historic) that work at the Stellar Development Foundation (signified by the @SDF Role are exempt from the Nomination and Approval process) and can be assigned with either role directly by a Discord admin.&#x20;
+Note: Nominated and selected quarterly delegates (current or historic) that work at the Stellar Development Foundation (signified by the @SDF Role) are exempt from the Nomination and Approval process and can be assigned either role directly by a Discord admin.&#x20;
 
 ***
 
@@ -59,8 +59,8 @@ A member will see a warning status on the SCF Dashboard as well as receive a war
 
 #### Immediate Downgrades
 
-In exceptional cases (e.g. serious [Stellar Code of Conduct](https://stellar.org/foundation/code-of-conduct) violations), Pilots may nominate an immediate downgrade or entire removal of roles for the user in question for downgrade or removal of tiers entirely, which needs to be supported by at least 5 Pilots.&#x20;
+In exceptional cases (e.g. serious [Stellar Code of Conduct](https://stellar.org/foundation/code-of-conduct) violations), Pilots may nominate a user for an immediate downgrade or removal from all tiers, which needs to be supported by at least 5 Pilots.&#x20;
 
-In sensitive cases where anonymity and/or threading lightly is of essence, any verified member can remove a user in question from their trusted user list. If it causes a significant drop in voting power from these actions (i.e. a lot of users with (significant) voting power untrust this user), it triggers an accelerated loss of voting power for this user (and thus initiating the automated downgrade process).&#x20;
+In sensitive cases where anonymity and/or treading lightly is essential, any verified member can remove the user in question from their trusted user list. If these actions cause a significant drop in voting power (i.e. a lot of users with significant voting power untrust this user), they trigger an accelerated loss of voting power for this user and initiate the automated downgrade process.&#x20;
 
 <br>
