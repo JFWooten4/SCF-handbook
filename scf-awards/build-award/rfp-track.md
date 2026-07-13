@@ -27,7 +27,7 @@ description: >-
 * The submission must address an [open RFP](rfp-track.md#current-open-rfps) from the current quarter—read the RFP carefully and respond directly to its needs.
   * Your proposal does not need to address all points of the RFP, but you should articulate reasoning for a limited scope.
 * You must clearly show:
-  * Why you’re a good fit to solve this (provide examples of past dev-focused work, and share open-sourced repos if possible)
+  * Why you’re a good fit to solve this (provide examples of past dev-focused work and share open-sourced repos if possible)
   * What makes your solution technically strong
   * Clear, testable milestones
   * How your tool will be maintained post-launch
@@ -181,7 +181,7 @@ Core requirements for a production Account Demolisher:
 * Soroban support -- full parity with classic assets.
 * The UI should support stellar-wallets-kit and direct secret key input. Merging multisig accounts might require gathering signatures from several key pairs, so the interface should support adding multiple secret keys or signing transactions with different Stellar wallets.
 * This tool should be implemented in a trust-minimization, non-custodial manner. All transactions should be signed on the client side. Secret keys should never be transferred to the server side. The tool should
-* Safety features: confirmation flows, clear warnings, and a dry-run / preview mode where possible (for most accounts clearing all active entries will require several sequential transactions, so it will be challenging to create a clear dry-run output, would like to see the proposers approach here).
+* Safety features: confirmation flows, clear warnings, and—where possible—a dry-run / preview mode (for most accounts clearing all active entries will require several sequential transactions, so it will be challenging to create a clear dry-run output, would like to see the proposers approach here).
 * Open source, permissive license -- existing [stellar.expert/demolisher](http://stellar.expert/demolisher) code can be a starting point.
 * Production-grade UX -- this tool handles irreversible actions and must be trustworthy.
 

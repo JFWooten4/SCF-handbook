@@ -73,7 +73,7 @@ You can find step-by-step submission instructions for each program here in the h
 <summary>Who reviews projects and votes for project allocation?</summary>
 
 * Projects are reviewed by a rotating delegate panel made up of SDF employees and trusted Stellar Community members. Anyone can become an SCF Delegate Panelist by earning the Pilot Role, which represents a significant commitment to the Stellar Ecosystem and to the Stellar Community Fund.
-* SCF operates using a verified member system where individuals unlock different abilities as they move through the tiers. SCF Pathfinders are eligible to participate in Community Vote by delegating their votes to trusted delegates. SCF Navigators are able to vote directly for projects. SCF Pilots can vote directly for projects, and nominate themselves to be part of the Delegate Panel. Delegates carry the heaviest voting weight, based on delegation and quorum
+* SCF operates using a verified member system where individuals unlock different abilities as they move through the tiers. SCF Pathfinders are eligible to participate in Community Vote by delegating their votes to trusted delegates. SCF Navigators are able to vote directly for projects. SCF Pilots can vote directly for projects, and they can nominate themselves to be part of the Delegate Panel. Delegates carry the heaviest voting weight, based on delegation and quorum
 
 </details>
 

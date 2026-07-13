@@ -40,7 +40,7 @@ For the Soft-Launch phase, the Proposal Discussion phase has no defined deadline
 
 #### 1️⃣ | Proposal Initiation
 
-Submission to the Public Goods Award is currently not open application to prevent spam, and allow the program to scale according to needs.&#x20;
+Submission to the Public Goods Award is currently not open application, to prevent spam and allow the program to scale according to needs.&#x20;
 
 If a project meets [eligibility requirements](official-rules.md#program-eligibility-criteria), they should make this known to a member from SDF in Discord (e.g. Anke, Gemma, or Emir), along with the following information:<br>
 
@@ -159,7 +159,7 @@ By applying to the SCF Public Goods Award Program, Participants consent to the u
 
 SDF reserves the right, in their sole discretion, to cancel, suspend and/or modify the SCF Public Goods Award Program, or any part of the Official Rules for any reason.
 
-The SCF Public Goods Award Program is governed by the[ SDF Terms of Service](https://www.stellar.org/terms-of-service) and these Official Rules. If there is any conflict or inconsistency between the SDF Terms of Service and the Official Rules, these Official Rules will prevail. If there is any discrepancy or inconsistency between the terms and conditions of the Official Rules and disclosures or other statements contained in any SCF Public Goods Award Program materials, including but not limited to the SCF Public Goods Award Program Proposal Form, and/or the Stellar.org website, then these Official Rules shall prevail.
+The SCF Public Goods Award Program is governed by the[ SDF Terms of Service](https://www.stellar.org/terms-of-service) and these Official Rules. If there is any conflict or inconsistency between the SDF Terms of Service and the Official Rules, these Official Rules will prevail. If there is any discrepancy or inconsistency between the terms and conditions of the Official Rules and disclosures or other statements contained in any SCF Public Goods Award Program materials, including but not limited to the SCF Public Goods Award Program Proposal Form and/or the Stellar.org website, then these Official Rules shall prevail.
 
 The terms and conditions of the Official Rules are subject to change at any time, including the rights or obligations of the Participants and SDF. SDF will post the terms and conditions of the amended Official Rules on the Stellar.org website. To the fullest extent permitted by law, any amendment will become effective at the time specified in the posting of the amended Official Rules or, if no time is specified, the time of posting.
 

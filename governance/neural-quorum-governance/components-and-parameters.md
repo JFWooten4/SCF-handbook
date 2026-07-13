@@ -99,9 +99,9 @@ In the graph below, we chose arbitrary values (a = 0, k = 1, c = 1, q = 1, b = 1
 ![](<../../.gitbook/assets/unknown (1).png>)
 
 {% hint style="info" %}
-Example: User A voted in round 30, from the graph above we can see weight for this round is 1.0. In this round user A submitted 68 Yes/No votes, and 32 Delegate votes, so 68%. The final weight of round 30 for this user will be 1.0 x 68% = 0.68.
+Example: User A voted in round 30, from the graph above we can see weight for this round is 1.0. In this round user A submitted 68 Yes/No votes and 32 Delegate votes, so 68%. The final weight of round 30 for this user will be 1.0 x 68% = 0.68.
 
-User B voted in round 30, from the graph above we can see weight for this round is 1.0. In this round user B submitted 0 Yes/No votes, and 100 Delegate votes, so 0%. The final weight of round 30 for this user will be 1.0 x 30% = 0.3.
+User B voted in round 30, from the graph above we can see weight for this round is 1.0. In this round user B submitted 0 Yes/No votes and 100 Delegate votes, so 0%. The final weight of round 30 for this user will be 1.0 x 30% = 0.3.
 {% endhint %}
 {% endstep %}
 
@@ -182,7 +182,7 @@ After that we perform a min-max normalization to ensure that scores of all users
 
 **1.2.4.2 Highly Trusted Bonus**
 
-After calculating PageRank scores, we take users with top 10% scores, those are considered highly trusted individuals. Then for each highly trusted user, we take the list of users they trust, and give everyone an additional bonus of 15% of their own score. If someone is trusted by multiple highly trusted users, he will get this bonus multiple times.
+After calculating PageRank scores, we take users with top 10% scores, those are considered highly trusted individuals. Then for each highly trusted user, we take the list of users they trust, and we give everyone an additional bonus of 15% of their own score. If someone is trusted by multiple highly trusted users, he will get this bonus multiple times.
 
 Note: Keep in mind that even though we perform normalization after the PageRank, adding this HTB can result in the trust score of some users being higher than 1.0. This is an important change from the original implementation of the system, which was designed in a way so all 3 neurons should output values in range 0.0 - 1.0. We believe this isn't a flaw, because it makes the trust have a bigger impact on the overall NQG score, which is desired.
 
@@ -198,7 +198,7 @@ Trust History safeguard is used to decrease a user’s voting power when signifi
 3.  After we have those % diffs we run them through the logistic curve, which you can see on the graph below.<br>
 
     <div data-full-width="true"><figure><img src="../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure></div>
-4. To calculate the final trust score we take the user's PageRank (with HTB if applicable) score from the current round, and multiply it by the trust multiplier (also %) that came out of the logistic curve. Let’s come back to our 3 examples:
+4. To calculate the final trust score we take the user's PageRank (with HTB if applicable) score from the current round, and we multiply it by the trust multiplier (also %) that came out of the logistic curve. Let’s come back to our 3 examples:
    1. User “A” had a Page Rank score for the current round at 1.2, and it was 120% of his trust score from the previous round. So looking at the graph, 120% equals the trust multiplier being 100% - that means user “A” will have his final trust score equal to the page rank from the current round - in other words, his score is unaffected.
    2. User “B” had a Page Rank score for the current round at 0.8, and it was 80% of his trust score from the previous round. Looking at the graph, 80% equals 97% trust multiplier - this means, his score will also remain mostly unchanged.
    3. User “C” had a Page Rank score for the current round at 0.6, and it was 60% of his trust score from the previous round. Looking at the graph, 60% equals 64% trust multiplier - this means his final score will be 0.6 \* 0.64 = 0,384.<br>
@@ -219,7 +219,7 @@ $$
 
 <sub>Where:</sub> <sub></sub><sub>_D_</sub> <sub></sub><sub>= what % of previous trust is current trust,</sub> <sub></sub><sub>_Tc_</sub> <sub></sub><sub>= current trust (page rank + HTB from current round),</sub> <sub></sub><sub>_Tp_</sub> <sub></sub><sub>= previous trust (page rank + HTB from previous round),</sub> <sub></sub><sub>_M_</sub> <sub></sub><sub>= outcome of Generalized Logistic Function with</sub> <sub></sub><sub>_D_</sub> <sub></sub><sub>as an input, and some arbitrary parameters,</sub> <sub></sub><sub>_Tf_</sub> <sub></sub><sub>= final trust score</sub>
 
-This algorithm doesn’t affect users whose trust score grows, or stays around the same level. Only if you lose a lot of trust between rounds, you will be affected by an even bigger trust score loss.
+This algorithm doesn’t affect users whose trust score grows or stays around the same level. Only if you lose a lot of trust between rounds, you will be affected by an even bigger trust score loss.
 
 #### **1.2.4. Trust Loss Neuron**
 
@@ -250,7 +250,7 @@ Quorum Delegation (QD) allows users to passively vote by delegating their choice
 
 1. Delegating members choose and rank a set of delegates.
 2. If enough ranked delegates actively vote, their decision forms a Quorum Vote automatically for the user. If not enough ranked delegates actively vote,
-3. The outcome of the Quorum Vote is weighted by the delegating member’s voting weight, and sent as input for the final vote tally.
+3. The outcome of the Quorum Vote is weighted by the delegating member’s voting weight, and it is sent as input for the final vote tally.
 
 <figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
