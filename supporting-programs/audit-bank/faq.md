@@ -22,7 +22,7 @@ Prior to an eligible project's initial audit, the project must pay 5% of its fir
 
 <summary>When should I audit my project?</summary>
 
-Projects should request an audit if they are [eligible](official-rules.md#participant-eligibility), and are close to launching on Stellar mainnet, demonstrate technical maturity, including stable code, comprehensive documentation, and readiness for review—typically after completing the [SCF Build testnet tranche](../../scf-awards/build-award/#structure-and-timeline-scf-build-award).
+Projects should request an audit if they are [eligible](official-rules.md#participant-eligibility), are close to launching on Stellar mainnet, and demonstrate technical maturity, including stable code, comprehensive documentation, and readiness for review—typically after completing the [SCF Build testnet tranche](../../scf-awards/build-award/#structure-and-timeline-scf-build-award).
 
 </details>
 
@@ -30,7 +30,7 @@ Projects should request an audit if they are [eligible](official-rules.md#partic
 
 <summary>How quickly can my project get audited?</summary>
 
-[Eligible](official-rules.md#participant-eligibility) projects are typically matched with an audit firm within approximately two weeks after passing the readiness review. Audit firms are able to schedule most audits within 3-6 weeks after matching. The audit length depends on the scope of the code to be audited, and can take anywhere from 2 to 8 weeks.
+[Eligible](official-rules.md#participant-eligibility) projects are typically matched with an audit firm within approximately two weeks after passing the readiness review. Audit firms are able to schedule most audits within 3-6 weeks after matching. The audit length depends on the scope of the code to be audited and can take anywhere from 2 to 8 weeks.
 
 </details>
 

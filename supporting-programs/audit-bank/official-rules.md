@@ -27,7 +27,7 @@ The following audit firms have been pre-approved by the Stellar Development Foun
 
 #### **Phase 1: Intake & Eligibility Submission**
 
-Projects interested in participating must submit an audit request using a provided intake form. This intake form is provided to SCF-funded projects which have reached testnet stage or are already on mainnet. This form will detail the division of audit costs between SDF and the projects, and will require detailed information about the project, including:
+Projects interested in participating must submit an audit request using a provided intake form. This intake form is provided to SCF-funded projects which have reached testnet stage or are already on mainnet. This form will detail the division of audit costs between SDF and the projects and will require detailed information about the project, including:
 
 * Project description and purpose
 * Smart contract and technical architecture details

@@ -21,7 +21,7 @@ The SCF Referral Program (“Referral Program”) enables approved individuals o
 
 3.1 Independence of SCF Decisions. Referrals are an important part of the SCF application process and may be considered as part of the evaluation. However, referrals do not guarantee acceptance into SCF, selection, funding, or any other benefit. Funding decisions remain independent and subject to SCF governance, evaluation criteria, and final approvals in accordance with the rules set forth in the SCF Handbook.<br>
 
-3.2 No Undue Influence. Referrers shall not, directly or indirectly, represent, imply, or suggest that their referral confers any advantage or rights to any SCF awards,influences SCF decisions, constitutes an endorsement, sponsorship, or approval by SDF and/or SCF, or creates any agency relationship between SDF/SCF and Referrers, except to the extent explicitly provided by the referral mechanism as set forth in the Referral Rules herein.
+3.2 No Undue Influence. Referrers shall not, directly or indirectly, represent, imply, or suggest that their referral confers any advantage or rights to any SCF awards, influences SCF decisions, constitutes an endorsement, sponsorship, or approval by SDF and/or SCF, or creates any agency relationship between SDF/SCF and Referrers, except to the extent explicitly provided by the referral mechanism as set forth in the Referral Rules herein.
 
 #### 4. Referral Submission & Attribution
 
@@ -62,7 +62,7 @@ Current employees of SDF are not eligible to receive any Referral Rewards.
 
 6.1 Consent to Share. Referrers represent and warrant that they have obtained all necessary permissions and consents from the Referred Party to share Referred Party’s contact information and any related project materials with SCF and/or SDF for the purposes contemplated under this program.\
 \
-6.2 Data Handling. SCF will use submitted information for intake triage, communication, evaluation routing, reporting, program administration, and other program operations, and will process such information in accordance with applicable law and the privacy policy located here: https://www.stellar.org/privacy-policy.
+6.2 Data Handling. SCF will use submitted information for intake triage, communication, evaluation routing, reporting, program administration, and other program operations and will process such information in accordance with applicable law and the privacy policy located here: https://www.stellar.org/privacy-policy.
 
 6.3 Retention. Referral records and related information may be retained for operational, legal, compliance, and audit purposes in accordance with SDF policies. Referrers and Referred Parties expressly consent to such data retention, and such consent shall remain in effect for a period of three (3) years following the conclusion of the SCF program or initiative in which the Referrer or Referred Party last participated.
 

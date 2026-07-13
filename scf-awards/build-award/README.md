@@ -8,7 +8,7 @@ SCF Build is the core award track for teams building applications and protocols 
 
 **SCF Build consists of 3 distinct tracks: Open, Integration, and RFP.**
 
-SCF Build Award (or “Build Awards”) is an award of up to $150,000 in XLM\* distributed to eligible teams who are building meaningful products, services, and resources on Stellar (each, a “Project”). SCF Build Awards are intended to cover (up to \~4 months of) development costs until the Project launches on Stellar mainnet, or are otherwise available to their target audience.
+SCF Build Award (or “Build Awards”) is an award of up to $150,000 in XLM\* distributed to eligible teams who are building meaningful products, services, and resources on Stellar (each, a “Project”). SCF Build Awards are intended to cover (up to \~4 months of) development costs until the Project launches on Stellar mainnet or are otherwise available to their target audience.
 
 {% hint style="info" %}
 #### 🧑‍💻 **Who It’s For:**
