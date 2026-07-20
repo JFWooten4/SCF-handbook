@@ -45,8 +45,6 @@ Navigator and Pilot nominations are reviewed during scheduled approval windows p
 
 If the nomination was not approved, the community member can nominate themselves again prior to the following SCF Build Award round.&#x20;
 
-Note: Nominated and selected quarterly delegates (current or historic) that work at the Stellar Development Foundation (signified by the @SDF Role are exempt from the Nomination and Approval process) and can be assigned with either role directly by a Discord admin.&#x20;
-
 ***
 
 ### Maintaining Roles & Downgrades
