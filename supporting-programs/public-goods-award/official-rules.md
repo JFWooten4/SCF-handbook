@@ -29,7 +29,7 @@ The SCF Public Good Award program will roll-out in several incremental stages ba
 As the community and proposal teams have little to no issues with the program and outcomes of the previous stage, parameters are agreed upon by the community, and any necessary security audits have been completed with vulnerabilities (if any are found) fixed, the program may progress to a future stage (subject to change):
 
 * **Launch (Testnet)**: Ability to propose new eligible proposals (including previous Stellar Infrastructure Grant recipients). Proposal submission will be included into the SCF Dashboard.
-* **Launch (Mainnet):** After an extensive audit, contracts launched on mainnet. Can include experimentation using the onchain treasury and call data proposals, as well as further decentralizing the council.
+* **Launch (Mainnet):** After an extensive audit, contracts launched on Mainnet. Can include experimentation using the onchain treasury and call data proposals, as well as further decentralizing the council.
 * **Full Launch**: Onchain treasury processes all public good award payments based on community vote.&#x20;
 
 ### 1.2 Program Phases
@@ -134,7 +134,7 @@ Projects need to meet all following criteria in order to be eligible for the SCF
 * Tools/services that generate revenue through commercial licenses, APIs, or tokenomics are generally not eligible, unless they operate under an open, freely accessible model with meaningful ecosystem utility and are judged on a case-by-case basis during the Discussion phase.
 * The proposed project must not receive any currently active (ongoing) grant funding (or similar support) from the Stellar Development Foundation or have any outstanding tranches of the SCF Build Award.
 * Projects should provide a clear justification for why they qualify as a public good and why support through SCF is necessary to maintain accessibility for the ecosystem. See a list of categories below.
-* Projects should demonstrate usage and/or validation by existing ecosystem teams, compatibility or direct support for Stellar-native resources, protocols and/or tooling (if applicable), as well as  examples of past or current contributions to Stellar ecosystem utility.
+* Projects should demonstrate usage and/or validation by existing ecosystem teams, compatibility or direct support for Stellar-native resources, protocols and/or tooling (if applicable), as well as examples of past or current contributions to Stellar ecosystem utility.
 * Proposals must be highly aligned with general ethos of the Stellar ecosystem to further access to financial services, with the team demonstrating previous experience building on Stellar (e.g., funded through SCF, known open-source contributions, protocol infrastructure), familiarity with Stellar tech stack and community norms, and a proven track record of community engagement or responsiveness.
 * Proposals must have SMART deliverables (Specific, Measurable, Achievable, Relevant, and Time-bound) with reasonable and justifiable budget allocations.
 * Projects who have previously been awarded by the SCF Public Goods Award will need to include in their renewal proposal proof of delivery on previously funded milestones, evidence of continued usage, relevance, and ecosystem demand, and a compelling case for new features or maintenance required in the upcoming three months.
