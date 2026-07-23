@@ -88,7 +88,6 @@ If you're looking to fund development and launch of a usable application or prot
 
 ### Participant Eligibility & KYC Requirements
 
-\
 If your project is selected to receive an SCF Build Award, you will need to complete a compliance and identity verification process before funds can be issued.
 
 This includes:

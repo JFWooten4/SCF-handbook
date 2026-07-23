@@ -14,7 +14,6 @@ The SCF Referral Program (“Referral Program”) enables approved individuals o
 
 2.1 Referrer Eligibility. Participation is limited to Referrers who are explicitly approved and onboarded by the SCF/Ecosystem Growth team. Approval may be granted to community members, Ambassadors, Navigators, Pilots, partners, ecosystem contributors, and/or SDF personnel where applicable, at SCF’s sole discretion.
 
-\
 2.2 Referred Party Eligibility. Referred Parties must meet SCF eligibility requirements for the applicable round/cycle.
 
 #### 3. No Impact on Funding Decisions
