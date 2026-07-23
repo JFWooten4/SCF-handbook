@@ -4,7 +4,7 @@ Each participating project (“Project”, “project” or “Participant”) n
 
 ## Structure
 
-The Soroban Security Audit Program (the “Program”) is structured to enhance the safety and security of Soroban ecosystem projects. Managed by the Stellar Development Foundation (“SDF”), the Program schedules audits for projects and covers up to 100% of the audit cost (see details of [co-payment here](official-rules.md#phase-5-audit-execution-and-audit-fees)) with reputable audit firms and strategically allocates them to high-impact projects building on Stellar. Projects undergo a rigorous assessment and auditing process, ensuring robust security, mitigating risks, and fostering trust within the Stellar ecosystem.
+The Soroban Security Audit Program (the “Program”) is structured to enhance the safety and security of Soroban ecosystem projects. Managed by the Stellar Development Foundation (“SDF”), the Program schedules audits for projects and covers up to 100% of the audit cost (see details of [co-payment here](./official-rules.md#phase-5-audit-execution-and-audit-fees)) with reputable audit firms and strategically allocates them to high-impact projects building on Stellar. Projects undergo a rigorous assessment and auditing process, ensuring robust security, mitigating risks, and fostering trust within the Stellar ecosystem.
 
 ### Approved Audit Firms
 
@@ -77,7 +77,7 @@ The chosen audit firm performs a comprehensive security audit of the project's s
 * Penetration testing and stress testing
 * Identification of critical, high, medium, and low vulnerabilities
 
-While SDF covers most of the audit costs, there are cases in which an upfront co-payment from a project to SDF is required. As an example, for the Initial Audit, a project is required to provide a co-payment of 5% of Initial Audit costs to SDF, payable prior to commencement of the audit. However, if a project successfully addresses all identified critical, high, and medium vulnerabilities within 20 business days (verified by SDF with the Audit Firm), this co-payment of the Initial Audit will be fully refunded. Subsequent audits also require co-payment by the project. [See details here](official-rules.md#audit-co-payment-system).&#x20;
+While SDF covers most of the audit costs, there are cases in which an upfront co-payment from a project to SDF is required. As an example, for the Initial Audit, a project is required to provide a co-payment of 5% of Initial Audit costs to SDF, payable prior to commencement of the audit. However, if a project successfully addresses all identified critical, high, and medium vulnerabilities within 20 business days (verified by SDF with the Audit Firm), this co-payment of the Initial Audit will be fully refunded. Subsequent audits also require co-payment by the project. [See details here](./official-rules.md#audit-co-payment-system).&#x20;
 
 The duration of the audit phase typically ranges between one to six weeks, depending on the complexity of the project.
 
@@ -105,7 +105,7 @@ In order to be eligible for an audit, projects must meet the following criteria:
 
 * Projects must have been funded by SCF. Companies with other commercial grants from the SDF are not eligible for participation in the audit bank.
 * Projects must pass KYC and sanction checks.
-* Projects must be in an [eligible priority category or meet non-priority traction criteria](official-rules.md#eligible-categories).
+* Projects must be in an [eligible priority category or meet non-priority traction criteria](./official-rules.md#eligible-categories).
 * Projects must have completed the development of the code portions within the audit scope, be nearly mainnet-ready, and require an audit within 4–6 weeks.&#x20;
 * Projects must have conducted extensive tests on their code and deployed it on testnet for validation.
 * As part of their application, projects must submit the results of one of the “self-service tooling” options to include a list of all identified vulnerabilities and a remediation plan for fixing identified critical, high, and medium severity vulnerabilities prior to audit start.

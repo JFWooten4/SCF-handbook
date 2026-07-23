@@ -18,17 +18,17 @@ Find all statistics on [communityfund.stellar.org/stats](https://communityfund.s
 
 Throughout the years, SCF has been iterated on many times based on community feedback. Here's a summary of the key version upgrades, explained in detail later on.
 
-* [**SBC— Where it All Began**](history-of-scf.md#stellar-build-challenge-where-it-all-began) (_SBC #1–5, 2016–2019)_\
+* [**SBC— Where it All Began**](./history-of-scf.md#stellar-build-challenge-where-it-all-began) (_SBC #1–5, 2016–2019)_\
   The Stellar Build Challenge launched by SDF founder Jed McCaleb as a no-strings-attached funding for projects to grow the Stellar ecosystem with long-lasting developers, community members, and companies.&#x20;
-* [**SCF 1.0 — Dawn of Community-Powered Funding**](history-of-scf.md#scf-1.0-dawn-of-community-powered-funding) (_SCF #1–5, 2019–2020)_\
+* [**SCF 1.0 — Dawn of Community-Powered Funding**](./history-of-scf.md#scf-1.0-dawn-of-community-powered-funding) (_SCF #1–5, 2019–2020)_\
   SCF replaced the centralized Stellar Build Challenge, introducing community voting. Each year, 12M XLM was distributed across quarterly rounds, empowering all community members to nominate and vote on projects.
-* [**SCF 2.0 — Demonstrating Real Ecosystem Growth**](history-of-scf.md#scf-2.0-demonstrating-real-ecosystem-growth) (_SCF #6–7, 2020–2021)_\
+* [**SCF 2.0 — Demonstrating Real Ecosystem Growth**](./history-of-scf.md#scf-2.0-demonstrating-real-ecosystem-growth) (_SCF #6–7, 2020–2021)_\
   Then, funding was segmented into a ‘Lab Fund’ for smaller, experimental projects and a ‘Seed Fund’ for scaling companies. Award allocation was streamlined through a mix of community and panel-driven selections. SCF #7’s awards ranged from $200–350K in XLM\* to develop important projects, demonstrating SCF’s capacity to effectively boost large-scale ecosystem growth.
-* [**SCF 3.0 — Streamlined Entrepreneurial Support**](history-of-scf.md#scf-3.0-discord-budget-requests-and-entrepreneurial-focus) (_SCF #8–11, 2021–2022)_\
+* [**SCF 3.0 — Streamlined Entrepreneurial Support**](./history-of-scf.md#scf-3.0-discord-budget-requests-and-entrepreneurial-focus) (_SCF #8–11, 2021–2022)_\
   Instead of voting on the amount a project would receive, projects specified their budget request in USD (the final payout was still in XLM\*), and needed to pass a selection panel before moving onto community vote. Voting shifted to a straightforward yes/abstain system, reducing vote manipulation. Noteworthy initiatives from this phase included the introduction of round-based Project Pitches as well as dedicated startup-focused bootcamps focusing initially on Africa, then globally.
-* [**SCF 4.0 — Bigger, Better, Faster, Soroban**](history-of-scf.md#scf-4.0-bigger-better-faster-soroban) (_SCF #12–19, 2023)_\
+* [**SCF 4.0 — Bigger, Better, Faster, Soroban**](./history-of-scf.md#scf-4.0-bigger-better-faster-soroban) (_SCF #12–19, 2023)_\
   With the introduction of smart contract functionality on Stellar (Soroban), SCF expanded significantly, increasing the award amounts, funded projects and round frequency over 5 times. This allowed for rapid development cycles, accommodating more projects per round. No longer was SCF a competition–any eligible project accepted by the selection panel received 10% of their requested budget (also referred to as Proof of Intent). Upon finishing those deliverables, the project went through a larger community vote for the remaining 90%.
-* [**SCF 5.0 — Empowering Community Governance**](history-of-scf.md#scf-5.0-empowering-community-governance) (_SCF #20 — SCF #29, 2024)_\
+* [**SCF 5.0 — Empowering Community Governance**](./history-of-scf.md#scf-5.0-empowering-community-governance) (_SCF #20 — SCF #29, 2024)_\
   In replacement of the Proof of Intent model, two types of awards were introduced: first-timers can apply for an Activation Award selected by a panel to build out an initial MVP, followed by a larger Community Award voted on by the wider community to further build out their project. SCF started to adopt Neural Quorum Governance to support the signaling award allocation, initiating a move towards more inclusive, scalable, and reputation-based governance within the Stellar Community Fund.
 * SCF 6.&#x30;**— A Pluralist Approach to Ecosystem Growth**\
   With smart contract functionality live on Stellar, there's a new need — and a new opportunity — to improve the Stellar Community Fund (SCF) so that it not only fosters new innovation, but also incentivizes project launch and growth. Ecosystem experimentation has proven fruitful, many are ready to build for adoption, and SCF needs to adjust its strategy to match.

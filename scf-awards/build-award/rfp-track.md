@@ -19,12 +19,12 @@ description: >-
     → Better fit for [Instawards](../instawards/)
 * Teams building apps, protocols, or integrations for end users\
   → Consider either the [Open Track ](open-track.md)or [Integration Track](integration-track/), depending on your focus
-* Teams proposing a tooling idea not aligned with an [active RFP](rfp-track.md#current-open-rfps)\
+* Teams proposing a tooling idea not aligned with an [active RFP](./rfp-track.md#current-open-rfps)\
   → Wait for a future RFP that matches your concept
 
 #### 📋 Requirements
 
-* The submission must address an [open RFP](rfp-track.md#current-open-rfps) from the current quarter—read the RFP carefully and respond directly to its needs.
+* The submission must address an [open RFP](./rfp-track.md#current-open-rfps) from the current quarter—read the RFP carefully and respond directly to its needs.
   * Your proposal does not need to address all points of the RFP, but you should articulate reasoning for a limited scope.
 * You must clearly show:
   * Why you’re a good fit to solve this (provide examples of past dev-focused work, and share open-sourced repos if possible)

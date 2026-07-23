@@ -4,7 +4,7 @@ icon: square-dollar
 
 # Budget & Deliverable Guidelines
 
-[Deliverable Guidelines](budget-and-deliverable-guidelines.md#tranches-and-deliverables)
+[Deliverable Guidelines](./budget-and-deliverable-guidelines.md#tranches-and-deliverables)
 
 SCF Build Awards are milestone-based. Funding is split into four payments tied to specific deliverables that you set. Your application must include a budget that clearly maps the requested budget to your development timeline and outcomes.
 

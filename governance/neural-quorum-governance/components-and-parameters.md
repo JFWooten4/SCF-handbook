@@ -2,8 +2,8 @@
 
 NQG is modeled after neural networks and leverages layered voting neurons that dynamically adjust voting weights based on a participant’s expertise, trust earned from peers, and historical contributions to SCF (Neural Governance). Additionally, NQG has a flexible delegation model inspired by the Stellar Consensus Protocol (Quorum Delegation), enabling users to delegate votes to a group rather than a single individual.
 
-* [Neural Governance](components-and-parameters.md#id-1.-neural-governance)
-* [Quorum Delegation](components-and-parameters.md#id-2.-quorum-delegation)
+* [Neural Governance](./components-and-parameters.md#id-1.-neural-governance)
+* [Quorum Delegation](./components-and-parameters.md#id-2.-quorum-delegation)
 
 ## 1. Neural Governance
 
@@ -34,11 +34,11 @@ Neural Governance uses Voting Neurons to compute a user's voting power. Each neu
 
 The key neurons in the initial implementation are:
 
-* [Assigned Reputation](components-and-parameters.md#id-1.1.2.1.-verified-tier-and-discord-roles-neuron)
-* [Voting History](components-and-parameters.md#id-1.1.2.2.-voting-history-neuron)
-* [Voting Quality](components-and-parameters.md#id-1.1.2.3.-vote-quality-neuron)
-* [Trust Graph](components-and-parameters.md#id-1.1.2.4.-trust-graph-neuron)
-* [Trust Loss](components-and-parameters.md#id-1.2.4.-trust-loss-neuron)
+* [Assigned Reputation](./components-and-parameters.md#id-1.1.2.1.-verified-tier-and-discord-roles-neuron)
+* [Voting History](./components-and-parameters.md#id-1.1.2.2.-voting-history-neuron)
+* [Voting Quality](./components-and-parameters.md#id-1.1.2.3.-vote-quality-neuron)
+* [Trust Graph](./components-and-parameters.md#id-1.1.2.4.-trust-graph-neuron)
+* [Trust Loss](./components-and-parameters.md#id-1.2.4.-trust-loss-neuron)
 
 <figure><img src="../../.gitbook/assets/components-and-parameters/new_neurons_setup.png"/></figure>
 

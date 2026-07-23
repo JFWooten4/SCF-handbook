@@ -12,7 +12,7 @@ To balance efficiency with decentralization in the governance process, SCF uses 
 * Providing guidance to projects;
 * \[Open Track only] Can be added by voters to their delegation quorum during Community Vote (learn more [here](https://app.gitbook.com/s/4IGHJeoWQzABoSBkKBxt/governance)).
 
-Delegates are [compensated per engagement](quarterly-governance-process.md#delegate-compensation-and-expectations) (excluding SDF employees). See delegate selection for each quarter [here](https://docs.google.com/spreadsheets/d/1ThFcOIzhRNnebmeG99ZkwAALiusmCAOYqtVPSgbTXSU/edit?gid=2099892939#gid=2099892939).
+Delegates are [compensated per engagement](./quarterly-governance-process.md#delegate-compensation-and-expectations) (excluding SDF employees). See delegate selection for each quarter [here](https://docs.google.com/spreadsheets/d/1ThFcOIzhRNnebmeG99ZkwAALiusmCAOYqtVPSgbTXSU/edit?gid=2099892939#gid=2099892939).
 
 ## Tracks
 

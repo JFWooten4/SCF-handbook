@@ -42,7 +42,7 @@ For the Soft-Launch phase, the Proposal Discussion phase has no defined deadline
 
 Submission to the Public Goods Award is currently not open application to prevent spam, and allow the program to scale according to needs.&#x20;
 
-If a project meets [eligibility requirements](official-rules.md#program-eligibility-criteria), they should make this known to a member from SDF in Discord (e.g. Anke, Gemma, or Emir), along with the following information:<br>
+If a project meets [eligibility requirements](./official-rules.md#program-eligibility-criteria), they should make this known to a member from SDF in Discord (e.g. Anke, Gemma, or Emir), along with the following information:<br>
 
 * Project overview and category
 * Reasoning for why it's a Public Good

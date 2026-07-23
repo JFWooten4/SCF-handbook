@@ -6,7 +6,7 @@ For each cohort, the SCF Growth Hack program will target 10-15 companies that ha
 
 Top-performing companies will share up to USD $200K worth of XLM in additional performance-based awards. This program aims to help teams find PMF at an accelerated pace and serves as a bridge between development funding (SCF Build Award) and further growth (SDF Marketing Grant and Matching Fund Investment Readiness).
 
-Each Project in the SCF Growth Hack needs to adhere to the [Participant Eligibility Rules](official-rules.md#eligibility-criteria), the [application-](official-rules.md#eligibility-criteria) and [evaluation criteria](official-rules.md#selection-criteria), as well as the [General Rules](official-rules.md#general-rules) (altogether known as “Official Rules”).
+Each Project in the SCF Growth Hack needs to adhere to the [Participant Eligibility Rules](./official-rules.md#eligibility-criteria), the [application-](./official-rules.md#eligibility-criteria) and [evaluation criteria](./official-rules.md#selection-criteria), as well as the [General Rules](./official-rules.md#general-rules) (altogether known as “Official Rules”).
 
 ## Structure & Timeline
 
